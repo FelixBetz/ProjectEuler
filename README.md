@@ -1,3 +1,15 @@
+# Project Euler solutions
+This repository contains my solutions for [projecteuler.net](https://projecteuler.net).
+## What is Project Euler
+> "Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
+
+## My Progress
+
+I sloved `19` of `817` problmes!  
+
+![2%](https://progress-bar.dev/2)
+
+## Overview Progress
 Nr | Name | Solved
 --- | --- | ---
 1 | Multiples of 3 or 5 | [x]
