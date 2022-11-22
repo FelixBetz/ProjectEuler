@@ -5,11 +5,11 @@ This repository contains my solutions for [projecteuler.net](https://projecteule
 
 ## My Progress
 
-I sloved `19` of `817` problmes!  
+I sloved `19` of `817` problems!  
 
 ![2%](https://progress-bar.dev/2)
 
-## Overview Progress
+## Progress Overview
 Nr | Name | Solved
 --- | --- | ---
 1 | Multiples of 3 or 5 | [x]
