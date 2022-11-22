@@ -7,7 +7,7 @@ This repository contains my solutions for[projecteuler.net](https://projecteuler
 
 I sloved `19` out of `817` problems!  
 
-![2.3%](https://progress-bar.dev/2.3?width=500)
+![2%](https://progress-bar.dev/2?width=500)
 
 ## Progress Overview
 Nr | Name | Solved
