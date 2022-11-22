@@ -1,13 +1,13 @@
 # Project Euler solutions
-This repository contains my solutions for [projecteuler.net](https://projecteuler.net).
+This repository contains my solutions for[projecteuler.net](https://projecteuler.net).
 ## What is Project Euler
 > "Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
 
 ## My Progress
 
-I sloved `19` of `817` problems!  
+I sloved `19` out of `817` problems!  
 
-![2%](https://progress-bar.dev/2)
+![2.3%](https://progress-bar.dev/2.3?width=500)
 
 ## Progress Overview
 Nr | Name | Solved
@@ -259,7 +259,7 @@ Nr | Name | Solved
 245 | Coresilience | [ ]
 246 | Tangents to an ellipse | [ ]
 247 | Squares under a hyperbola | [ ]
-248 | Numbers for which Eulerâ€™s totient function equals 13! | [ ]
+248 | Numbers for which Euler’s totient function equals 13! | [ ]
 249 | Prime Subset Sums | [ ]
 250 | 250250 | [ ]
 251 | Cardano Triplets | [ ]
@@ -323,7 +323,7 @@ Nr | Name | Solved
 309 | Integer Ladders | [ ]
 310 | Nim Square | [ ]
 311 | Biclinic Integral Quadrilaterals | [ ]
-312 | Cyclic paths on SierpiÅ„ski graphs | [ ]
+312 | Cyclic paths on Sierpiński graphs | [ ]
 313 | Sliding game | [ ]
 314 | The Mouse on the Moon | [ ]
 315 | Digital root clocks | [ ]
@@ -374,7 +374,7 @@ Nr | Name | Solved
 360 | Scary Sphere | [ ]
 361 | Subsequence of Thue-Morse sequence | [ ]
 362 | Squarefree factors | [ ]
-363 | BÃ©zier Curves | [ ]
+363 | Bézier Curves | [ ]
 364 | Comfortable distance | [ ]
 365 | A huge binomial coefficient | [ ]
 366 | Stone Game III | [ ]
@@ -475,7 +475,7 @@ Nr | Name | Solved
 461 | Almost Pi | [ ]
 462 | Permutation of 3-smooth numbers | [ ]
 463 | A weird recurrence relation | [ ]
-464 | MÃ¶bius function and intervals | [ ]
+464 | Möbius function and intervals | [ ]
 465 | Polar polygons | [ ]
 466 | Distinct terms in a multiplication table | [ ]
 467 | Superinteger | [ ]
@@ -620,7 +620,7 @@ Nr | Name | Solved
 606 | Gozinta Chains II | [ ]
 607 | Marsh Crossing | [ ]
 608 | Divisor Sums | [ ]
-609 | Ï€ sequences | [ ]
+609 | π sequences | [ ]
 610 | Roman Numerals II | [ ]
 611 | Hallway of square steps | [ ]
 612 | Friend numbers | [ ]
@@ -724,7 +724,7 @@ Nr | Name | Solved
 710 | One Million Members | [ ]
 711 | Binary Blackboard | [ ]
 712 | Exponent Difference | [ ]
-713 | TurÃ¡n's water heating system | [ ]
+713 | Turán's water heating system | [ ]
 714 | Duodigits | [ ]
 715 | Sextuplet Norms | [ ]
 716 | Grid Graphs | [ ]
@@ -798,7 +798,7 @@ Nr | Name | Solved
 784 | Reciprocal Pairs | [ ]
 785 | Symmetric Diophantine equation | [ ]
 786 | Billiard | [ ]
-787 | BÃ©zout's Game | [ ]
+787 | Bézout's Game | [ ]
 788 | Dominating Numbers | [ ]
 789 | Minimal pairing modulo $p$ | [ ]
 790 | Clock Grid | [ ]
