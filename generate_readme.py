@@ -55,7 +55,11 @@ def generate_readme(arg_filename):
             is_solved = "[x]"
         else:
             is_solved = "[ ]"
-        lines.append(problem["cnt"]+" | " + problem["name"] + " | "+is_solved)
+        cnt = problem["cnt"]
+        name = problem["name"]
+        str_name = "["+name + "](https://projecteuler.net/problem="+cnt+")"
+
+        lines.append(cnt+" | " + str_name + " | "+is_solved)
 
     for i, _ in enumerate(lines):
         lines[i] += "\n"
