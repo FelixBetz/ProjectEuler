@@ -15,10 +15,10 @@ def get_digit_sum(arg_num):
     return digit_sum
 
 
-def solve_problem15():
-    """solve problem 15"""
+def solve_problem16():
+    """solve problem 16"""
     value = 2 ** 1000
     return get_digit_sum(value)
 
 
-print("sum of all the primes below two million:", solve_problem15())
+print("sum of all the primes below two million:", solve_problem16())

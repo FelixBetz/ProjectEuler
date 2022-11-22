@@ -93,8 +93,8 @@ def count_letters(arg_str):
     return len(arg_str.replace(" ", "").replace("-", ""))
 
 
-def solve_problem15():
-    """solve problem 15"""
+def solve_problem17():
+    """solve problem 17"""
     char_sum = 0
     for i in range(1, 1001):
         char_sum += count_letters(get_digit_as_string(i))
@@ -102,4 +102,4 @@ def solve_problem15():
     return char_sum
 
 
-print("sum of all the primes below two million:", solve_problem15())
+print("sum of all the primes below two million:", solve_problem17())
