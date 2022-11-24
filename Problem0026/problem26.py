@@ -38,10 +38,14 @@ def get_recurring_cylce_len(arg_num):
 
 def solve_problem26():
     """solve problem 26"""
-    max_len = 0
+    max_length = 0
+    max_idx = 0
     for i in range(1, 1001):
-        max_len = max(max_len, get_recurring_cylce_len(i))
-    return max_len
+        length = get_recurring_cylce_len(i)
+        if length > max_length:
+            max_idx = i
+            max_length = length
+    return str(max_idx) + " has cylce length " + str(max_length)
 
 
 print("longest recurring cycle in its decimal fraction part:", solve_problem26())
