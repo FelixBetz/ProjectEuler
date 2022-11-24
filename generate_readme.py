@@ -31,7 +31,7 @@ def generate_readme(arg_filename):
     lines = []
 
     lines.append("# Project Euler solutions")
-    lines.append("This repository contains my solutions for" +
+    lines.append("This repository contains my solutions for " +
                  "[projecteuler.net](https://projecteuler.net).")
     lines.append("## What is Project Euler")
     lines.append("> \"Project Euler exists to encourage, challenge," +

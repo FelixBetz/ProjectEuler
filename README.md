@@ -1,13 +1,13 @@
 # Project Euler solutions
-This repository contains my solutions for[projecteuler.net](https://projecteuler.net).
+This repository contains my solutions for [projecteuler.net](https://projecteuler.net).
 ## What is Project Euler
 > "Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
 
 ## My Progress
 
-I sloved `19` out of `817` problems!  
+I sloved `25` out of `817` problems!  
 
-![2%](https://progress-bar.dev/2?width=500)
+![3%](https://progress-bar.dev/3?width=500)
 
 ## Progress Overview
 Nr | Name | Solved
@@ -33,12 +33,12 @@ Nr | Name | Solved
 19 | [Counting Sundays](https://projecteuler.net/problem=19) | [x]
 20 | [Factorial digit sum](https://projecteuler.net/problem=20) | [x]
 21 | [Amicable numbers](https://projecteuler.net/problem=21) | [x]
-22 | [Names scores](https://projecteuler.net/problem=22) | [ ]
-23 | [Non-abundant sums](https://projecteuler.net/problem=23) | [ ]
-24 | [Lexicographic permutations](https://projecteuler.net/problem=24) | [ ]
-25 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25) | [ ]
-26 | [Reciprocal cycles](https://projecteuler.net/problem=26) | [ ]
-27 | [Quadratic primes](https://projecteuler.net/problem=27) | [ ]
+22 | [Names scores](https://projecteuler.net/problem=22) | [x]
+23 | [Non-abundant sums](https://projecteuler.net/problem=23) | [x]
+24 | [Lexicographic permutations](https://projecteuler.net/problem=24) | [x]
+25 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25) | [x]
+26 | [Reciprocal cycles](https://projecteuler.net/problem=26) | [x]
+27 | [Quadratic primes](https://projecteuler.net/problem=27) | [x]
 28 | [Number spiral diagonals](https://projecteuler.net/problem=28) | [ ]
 29 | [Distinct powers](https://projecteuler.net/problem=29) | [ ]
 30 | [Digit fifth powers](https://projecteuler.net/problem=30) | [ ]
