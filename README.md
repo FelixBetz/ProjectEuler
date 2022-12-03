@@ -5,7 +5,7 @@ This repository contains my solutions for [projecteuler.net](https://projecteule
 
 ## My Progress
 
-I sloved `25` out of `817` problems!  
+I sloved `28` out of `819` problems!  
 
 ![3%](https://progress-bar.dev/3?width=500)
 
@@ -39,9 +39,9 @@ Nr | Name | Solved
 25 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25) | [x]
 26 | [Reciprocal cycles](https://projecteuler.net/problem=26) | [x]
 27 | [Quadratic primes](https://projecteuler.net/problem=27) | [x]
-28 | [Number spiral diagonals](https://projecteuler.net/problem=28) | [ ]
-29 | [Distinct powers](https://projecteuler.net/problem=29) | [ ]
-30 | [Digit fifth powers](https://projecteuler.net/problem=30) | [ ]
+28 | [Number spiral diagonals](https://projecteuler.net/problem=28) | [x]
+29 | [Distinct powers](https://projecteuler.net/problem=29) | [x]
+30 | [Digit fifth powers](https://projecteuler.net/problem=30) | [x]
 31 | [Coin sums](https://projecteuler.net/problem=31) | [ ]
 32 | [Pandigital products](https://projecteuler.net/problem=32) | [ ]
 33 | [Digit cancelling fractions](https://projecteuler.net/problem=33) | [ ]
@@ -829,3 +829,5 @@ Nr | Name | Solved
 815 | [Group by Value](https://projecteuler.net/problem=815) | [ ]
 816 | [Shortest distance among points](https://projecteuler.net/problem=816) | [ ]
 817 | [Digits in Squares](https://projecteuler.net/problem=817) | [ ]
+818 | [SET](https://projecteuler.net/problem=818) | [ ]
+819 | [Iterative Sampling](https://projecteuler.net/problem=819) | [ ]
