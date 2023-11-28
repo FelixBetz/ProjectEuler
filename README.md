@@ -5,7 +5,7 @@ This repository contains my solutions for [projecteuler.net](https://projecteule
 
 ## My Progress
 
-I sloved `30` out of `865` problems!  
+I sloved `31` out of `865` problems!  
 
 ![3%](https://progress-bar.dev/3?width=500)
 
@@ -46,7 +46,7 @@ Nr | Name | Solved
 32 | [Pandigital Products](https://projecteuler.net/problem=32) | [ ]
 33 | [Digit Cancelling Fractions](https://projecteuler.net/problem=33) | [ ]
 34 | [Digit Factorials](https://projecteuler.net/problem=34) | [x]
-35 | [Circular Primes](https://projecteuler.net/problem=35) | [ ]
+35 | [Circular Primes](https://projecteuler.net/problem=35) | [x]
 36 | [Double-base Palindromes](https://projecteuler.net/problem=36) | [ ]
 37 | [Truncatable Primes](https://projecteuler.net/problem=37) | [ ]
 38 | [Pandigital Multiples](https://projecteuler.net/problem=38) | [ ]
