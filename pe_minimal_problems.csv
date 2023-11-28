@@ -1,820 +1,866 @@
 "ID","Description","Published","Solved By","Solve Status"
-1,"Multiples of 3 or 5",1002301200,969431,1
-2,"Even Fibonacci numbers",1003510800,773665,1
-3,"Largest prime factor",1004724000,557076,1
-4,"Largest palindrome product",1005933600,493199,1
-5,"Smallest multiple",1007143200,496539,1
-6,"Sum square difference",1008352800,499580,1
-7,"10001st prime",1009562400,427835,1
-8,"Largest product in a series",1010772000,358824,1
-9,"Special Pythagorean triplet",1011981600,363834,1
-10,"Summation of primes",1013191200,333554,1
-11,"Largest product in a grid",1014400800,239848,0
-12,"Highly divisible triangular number",1015610400,226447,1
-13,"Large sum",1016820000,231789,1
-14,"Longest Collatz sequence",1018026000,232034,1
-15,"Lattice paths",1019235600,191621,0
-16,"Power digit sum",1020445200,234254,1
-17,"Number letter counts",1021654800,155670,1
-18,"Maximum path sum I",1022864400,149028,1
-19,"Counting Sundays",1024074000,138465,1
-20,"Factorial digit sum",1024678800,202849,1
-21,"Amicable numbers",1025888400,150303,1
-22,"Names scores",1027098000,138320,1
-23,"Non-abundant sums",1028307600,107431,1
-24,"Lexicographic permutations",1029517200,117995,1
-25,"1000-digit Fibonacci number",1030726800,159446,1
-26,"Reciprocal cycles",1031936400,86727,1
-27,"Quadratic primes",1033146000,90171,1
-28,"Number spiral diagonals",1034355600,111101,1
-29,"Distinct powers",1035565200,108574,1
-30,"Digit fifth powers",1036778400,113157,1
-31,"Coin sums",1037988000,87816,0
-32,"Pandigital products",1039197600,73641,0
-33,"Digit cancelling fractions",1040407200,74028,0
-34,"Digit factorials",1041616800,97009,0
-35,"Circular primes",1042826400,87259,0
-36,"Double-base palindromes",1044036000,91406,0
-37,"Truncatable primes",1045245600,75877,0
-38,"Pandigital multiples",1046455200,65113,0
-39,"Integer right triangles",1047664800,75501,0
-40,"Champernowne's constant",1048874400,82507,0
-41,"Pandigital prime",1050080400,70309,0
-42,"Coded triangle numbers",1051290000,76638,0
-43,"Sub-string divisibility",1052499600,61871,0
-44,"Pentagon numbers",1053709200,60521,0
-45,"Triangular, pentagonal, and hexagonal",1054918800,73097,0
-46,"Goldbach's other conjecture",1056128400,63662,0
-47,"Distinct primes factors",1057338000,59936,0
-48,"Self powers",1058547600,114979,0
-49,"Prime permutations",1059757200,59833,0
-50,"Consecutive prime sum",1060966800,64469,0
-51,"Prime digit replacements",1062176400,35236,0
-52,"Permuted multiples",1063386000,67169,0
-53,"Combinatoric selections",1064595600,60738,0
-54,"Poker hands",1065805200,37404,0
-55,"Lychrel numbers",1067014800,55488,0
-56,"Powerful digit sum",1068228000,59926,0
-57,"Square root convergents",1069437600,43082,0
-58,"Spiral primes",1070647200,41598,0
-59,"XOR decryption",1071856800,42604,0
-60,"Prime pair sets",1073066400,27791,0
-61,"Cyclical figurate numbers",1074276000,26484,0
-62,"Cubic permutations",1075485600,32642,0
-63,"Powerful digit counts",1076695200,44590,0
-64,"Odd period square roots",1077904800,22985,0
-65,"Convergents of e",1079114400,30916,0
-66,"Diophantine equation",1080324000,20421,0
-67,"Maximum path sum II",1081530000,98316,0
-68,"Magic 5-gon ring",1082739600,21533,0
-69,"Totient maximum",1083949200,35989,0
-70,"Totient permutation",1085158800,23065,0
-71,"Ordered fractions",1086368400,30284,0
-72,"Counting fractions",1087578000,23146,0
-73,"Counting fractions in a range",1088787600,25846,0
-74,"Digit factorial chains",1089997200,27636,0
-75,"Singular integer right triangles",1091206800,18642,0
-76,"Counting summations",1092416400,29458,0
-77,"Prime summations",1093626000,19849,0
-78,"Coin partitions",1094835600,17502,0
-79,"Passcode derivation",1095440400,42084,0
-80,"Square root digital expansion",1097254800,20504,0
-81,"Path sum: two ways",1098464400,35317,0
-82,"Path sum: three ways",1099677600,21786,0
-83,"Path sum: four ways",1100887200,18751,0
-84,"Monopoly odds",1102096800,13089,0
-85,"Counting rectangles",1103306400,25494,0
-86,"Cuboid route",1105120800,13150,0
-87,"Prime power triples",1106330400,21557,0
-88,"Product-sum numbers",1107540000,10461,0
-89,"Roman numerals",1108749600,21820,0
-90,"Cube digit pairs",1109959200,11662,0
-91,"Right triangles with integer coordinates",1111168800,15948,0
-92,"Square digit chains",1112374800,42741,0
-93,"Arithmetic expressions",1113584400,12207,0
-94,"Almost equilateral triangles",1114794000,12773,0
-95,"Amicable chains",1116003600,14786,0
-96,"Su Doku",1117213200,17733,0
-97,"Large non-Mersenne prime",1118422800,44299,0
-98,"Anagramic squares",1119027600,11803,0
-99,"Largest exponential",1120237200,31476,0
-100,"Arranged probability",1121446800,16806,0
-101,"Optimum polynomial",1122656400,11877,0
-102,"Triangle containment",1123866000,22576,0
-103,"Special subset sums: optimum",1125075600,8286,0
-104,"Pandigital Fibonacci ends",1126285200,16627,0
-105,"Special subset sums: testing",1127494800,8270,0
-106,"Special subset sums: meta-testing",1128704400,6588,0
-107,"Minimal network",1129914000,11310,0
-108,"Diophantine reciprocals I",1131127200,12961,0
-109,"Darts",1132336800,8371,0
-110,"Diophantine reciprocals II",1133546400,8295,0
-111,"Primes with runs",1134756000,7434,0
-112,"Bouncy numbers",1135965600,25245,0
-113,"Non-bouncy numbers",1139594400,11352,0
-114,"Counting block combinations I",1140199200,11113,0
-115,"Counting block combinations II",1140804000,10153,0
-116,"Red, green or blue tiles",1141408800,12422,0
-117,"Red, green, and blue tiles",1142013600,11396,0
-118,"Pandigital prime sets",1143223200,7142,0
-119,"Digit power sum",1144429200,12676,0
-120,"Square remainders",1145638800,14120,0
-121,"Disc game prize fund",1148058000,9947,0
-122,"Efficient exponentiation",1149267600,8005,0
-123,"Prime square remainders",1150477200,11797,0
-124,"Ordered radicals",1152896400,14038,0
-125,"Palindromic sums",1154710800,13849,0
-126,"Cuboid layers",1155920400,4843,0
-127,"abc-hits",1157130000,6365,0
-128,"Hexagonal tile differences",1159549200,5131,0
-129,"Repunit divisibility",1161968400,6413,0
-130,"Composites with prime repunit property",1161968400,6040,0
-131,"Prime cube partnership",1163181600,7513,0
-132,"Large repunit factors",1164996000,6471,0
-133,"Repunit nonfactors",1164996000,5637,0
-134,"Prime pair connection",1166205600,7154,0
-135,"Same differences",1167415200,6508,0
-136,"Singleton difference",1167415200,5776,0
-137,"Fibonacci golden nuggets",1168624800,5632,0
-138,"Special isosceles triangles",1169290800,5942,0
-139,"Pythagorean tiles",1169888400,5746,0
-140,"Modified Fibonacci golden nuggets",1170486000,4419,0
-141,"Investigating progressive numbers, <i>n</i>, which are also square",1171688400,4004,0
-142,"Perfect Square Collection",1172278800,5915,0
-143,"Investigating the Torricelli point of a triangle",1172869200,2798,0
-144,"Investigating multiple reflections of a laser beam",1173459600,6389,0
-145,"How many reversible numbers are there below one-billion?",1174050000,17011,0
-146,"Investigating a Prime Pattern ",1174726800,5153,0
-147,"Rectangles in cross-hatched grids",1175317200,3080,0
-148,"Exploring Pascal's triangle",1175907600,5231,0
-149,"Searching for a maximum-sum subsequence",1176498000,4914,0
-150,"Searching a triangular array for a sub-triangle having minimum-sum",1176498000,4015,0
-151,"Paper sheets of standard sizes: an expected-value problem",1177088400,5616,0
-152,"Writing 1/2 as a sum of inverse squares",1177678800,2717,0
-153,"Investigating Gaussian Integers",1178355600,2654,0
-154,"Exploring Pascal's pyramid",1178946000,2678,0
-155,"Counting Capacitor Circuits",1179536400,3657,0
-156,"Counting Digits",1180126800,2469,0
-157,"Solving the diophantine equation <sup>1</sup>/<sub><var>a</var></sub>+<sup>1</sup>/<sub><var>b</var></sub>= <sup><var>p</var></sup>/<sub>10<sup><var>n</var></sup></sub> ",1180717200,2757,0
-158,"Exploring strings for which only one character comes lexicographically after its neighbour to the left",1181912400,3689,0
-159,"Digital root sums of factorisations",1183208400,3344,0
-160,"Factorial trailing digits",1189170000,3549,0
-161,"Triominoes",1190394000,2145,0
-162,"Hexadecimal numbers",1191618000,5443,0
-163,"Cross-hatched triangles",1192237200,1837,0
-164,"Numbers for which no three consecutive digits have a sum greater than a given value",1192856400,5846,0
-165,"Intersections",1193475600,2625,0
-166,"Criss Cross",1194094800,4168,0
-167,"Investigating Ulam sequences",1194613200,1707,0
-168,"Number Rotations",1195232400,2682,0
-169,"Exploring the number of different ways a number can be expressed as a sum of powers of 2",1195851600,5119,0
-170,"Find the largest 0 to 9 pandigital that can be formed by concatenating products",1196470800,2018,0
-171,"Finding numbers for which the sum of the squares of the digits is a square",1197090000,2819,0
-172,"Investigating numbers with few repeated digits",1197709200,3823,0
-173,"Using up to one million tiles how many different ""hollow"" square laminae can be formed?",1198328400,9227,0
-174,"Counting the number of ""hollow"" square laminae that can form one, two, three, ... distinct arrangements",1198328400,5924,0
-175,"Fractions involving the number of different ways a number can be expressed as a sum of powers of 2",1198846800,1804,0
-176,"Right-angled triangles that share a cathetus",1199466000,1916,0
-177,"Integer angled Quadrilaterals",1200085200,1293,0
-178,"Step Numbers",1200704400,3461,0
-179,"Consecutive positive divisors",1201323600,11411,0
-180,"Rational zeros of a function of three variables",1201942800,1590,0
-181,"Investigating in how many ways objects of two different colours can be grouped",1202562000,1992,0
-182,"RSA encryption",1203080400,2626,0
-183,"Maximum product of parts",1203699600,4720,0
-184,"Triangles containing the origin",1204318800,1660,0
-185,"Number Mind",1204938000,3163,0
-186,"Connectedness of a network",1205557200,2891,0
-187,"Semiprimes",1206176400,11334,0
-188,"The hyperexponentiation of a number",1207314000,6463,0
-189,"Tri-colouring a triangular grid",1207929600,2077,0
-190,"Maximising a weighted product",1208552400,4208,0
-191,"Prize Strings",1209168000,7176,0
-192,"Best Approximations",1209787200,1630,0
-193,"Squarefree Numbers",1210420800,3382,0
-194,"Coloured Configurations",1211014800,1411,0
-195,"Inscribed circles of triangles with one angle of 60 degrees",1211547600,1402,0
-196,"Prime triplets",1212166800,2598,0
-197,"Investigating the behaviour of a recursively defined sequence",1212786000,4956,0
-198,"Ambiguous Numbers",1213405200,1131,0
-199,"Iterative Circle Packing",1214024400,1980,0
-200,"Find the 200th prime-proof sqube containing the contiguous sub-string ""200""",1214643600,2389,0
-201,"Subsets with a unique sum",1215262800,2333,0
-202,"Laserbeam",1215262800,2577,0
-203,"Squarefree Binomial Coefficients",1220706000,9257,0
-204,"Generalised Hamming Numbers",1220706000,7424,0
-205,"Dice Game",1220706000,15124,0
-206,"Concealed Square",1220706000,24875,0
-207,"Integer partition equations",1220706000,4761,0
-208,"Robot Walks",1221224400,1768,0
-209,"Circular Logic",1221843600,2522,0
-210,"Obtuse Angled Triangles",1222462800,1721,0
-211,"Divisor Square Sum",1223082000,4226,0
-212,"Combined Volume of Cuboids",1223701200,1386,0
-213,"Flea Circus",1224320400,2342,0
-214,"Totient Chains",1224939600,5259,0
-215,"Crack-free Walls",1225458000,3740,0
-216,"Investigating the primality of numbers of the form 2<var>n</var><sup>2</sup>-1",1226077200,4114,0
-217,"Balanced Numbers",1226696400,1518,0
-218,"Perfect right-angled triangles",1227315600,3065,0
-219,"Skew-cost coding",1227934800,1478,0
-220,"Heighway Dragon",1228554000,2204,0
-221,"Alexandrian Integers",1229173200,2087,0
-222,"Sphere Packing",1229691600,2103,0
-223,"Almost right-angled triangles I",1230310800,1539,0
-224,"Almost right-angled triangles II",1230310800,1242,0
-225,"Tribonacci non-divisors",1230310800,4502,0
-226,"A Scoop of Blancmange",1230930000,1752,0
-227,"The Chase",1231549200,2125,0
-228,"Minkowski Sums",1232168400,1331,0
-229,"Four Representations using Squares",1232787600,1484,0
-230,"Fibonacci Words",1233406800,2915,0
-231,"The prime factorisation of binomial coefficients",1233925200,5503,0
-232,"The Race",1234544400,1791,0
-233,"Lattice points on a circle",1235163600,2341,0
-234,"Semidivisible numbers",1235782800,3291,0
-235,"An Arithmetic Geometric sequence",1236402000,5043,0
-236,"Luxury Hampers",1237021200,943,0
-237,"Tours on a 4 x n playing board",1237640400,1572,0
-238,"Infinite string tour",1238335200,963,0
-239,"Twenty-two Foolish Primes",1238774400,1846,0
-240,"Top Dice",1239397200,2191,0
-241,"Perfection Quotients",1240016400,936,0
-242,"Odd Triplets",1240635600,1050,0
-243,"Resilience",1241254800,9660,0
-244,"Sliders",1241874000,1321,0
-245,"Coresilience",1242392400,818,0
-246,"Tangents to an ellipse",1243008000,807,0
-247,"Squares under a hyperbola",1243627200,1477,0
-248,"Numbers for which Euler’s totient function equals 13!",1244246400,1302,0
-249,"Prime Subset Sums",1244865600,2556,0
-250,"250250",1244865600,3008,0
-251,"Cardano Triplets",1245484800,1396,0
-252,"Convex Holes",1246104000,836,0
-253,"Tidying up",1251460800,1021,0
-254,"Sums of Digit Factorials",1252080000,970,0
-255,"Rounded Square Roots",1252699200,863,0
-256,"Tatami-Free Rooms",1253318400,742,0
-257,"Angular Bisectors",1253937600,694,0
-258,"A lagged Fibonacci sequence",1254556800,1611,0
-259,"Reachable Numbers",1255176000,1509,0
-260,"Stone Game",1255694400,1323,0
-261,"Pivotal Square Sums",1256313600,697,0
-262,"Mountain Range",1256936400,729,0
-263,"An engineers' dream come true",1257555600,1043,0
-264,"Triangle Centres",1258174800,568,0
-265,"Binary Circles",1258794000,4246,0
-266,"Pseudo Square Root",1259413200,1707,0
-267,"Billionaire",1259931600,3438,0
-268,"Counting numbers with at least four distinct prime factors less than 100",1260550800,1457,0
-269,"Polynomials with at least one integer root",1261213200,698,0
-270,"Cutting Squares",1261789200,643,0
-271,"Modular Cubes, part 1",1262408400,2388,0
-272,"Modular Cubes, part 2",1262408400,977,0
-273,"Sum of Squares",1263042000,1387,0
-274,"Divisibility Multipliers",1263560400,1415,0
-275,"Balanced Sculptures",1264179600,606,0
-276,"Primitive Triangles",1264798800,1095,0
-277,"A Modified Collatz sequence",1265418000,3266,0
-278,"Linear Combinations of Semiprimes",1266037200,1056,0
-279,"Triangles with integral sides and an integral angle ",1266656400,738,0
-280,"Ant and seeds",1267275600,1044,0
-281,"Pizza Toppings",1267794000,975,0
-282,"The Ackermann function",1268413200,1022,0
-283,"Integer sided triangles for which the  area/perimeter ratio is integral",1269032400,638,0
-284,"Steady Squares",1269651600,1264,0
-285,"Pythagorean odds",1270267200,1217,0
-286,"Scoring probabilities",1270267200,2164,0
-287,"Quadtree encoding (a simple compression algorithm)",1270886400,1447,0
-288,"An enormous factorial",1271505600,1664,0
-289,"Eulerian Cycles",1272024000,491,0
-290,"Digital Signature",1272643200,989,0
-291,"Panaitopol Primes",1273262400,1445,0
-292,"Pythagorean Polygons",1273881600,570,0
-293,"Pseudo-Fortunate Numbers",1274500800,3003,0
-294,"Sum of digits - experience #23",1275120000,925,0
-295,"Lenticular holes",1275739200,459,0
-296,"Angular Bisector and Tangent",1276257600,583,0
-297,"Zeckendorf Representation",1276876800,2812,0
-298,"Selective Amnesia",1277496000,671,0
-299,"Three similar triangles",1278115200,628,0
-300,"Protein folding",1283601600,1102,0
-301,"Nim",1284217200,6559,0
-302,"Strong Achilles Numbers",1284832800,746,0
-303,"Multiples with small digits",1285448400,3661,0
-304,"Primonacci",1286064000,2195,0
-305,"Reflexive Position",1286679600,606,0
-306,"Paper-strip Game",1287295200,1199,0
-307,"Chip Defects",1287910800,1664,0
-308,"An amazing Prime-generating Automaton",1288440000,770,0
-309,"Integer Ladders",1289059200,819,0
-310,"Nim Square",1289674800,1147,0
-311,"Biclinic Integral Quadrilaterals",1290290400,437,0
-312,"Cyclic paths on Sierpiński graphs",1290906000,845,0
-313,"Sliding game",1291521600,1619,0
-314,"The Mouse on the Moon",1292137200,511,0
-315,"Digital root clocks",1292752800,3432,0
-316,"Numbers in decimal expansions",1293282000,664,0
-317,"Firecracker",1293897600,2679,0
-318,"2011 nines",1293897600,942,0
-319,"Bounded Sequences",1294513200,401,0
-320,"Factorials divisible by a huge integer",1295128800,869,0
-321,"Swapping Counters",1295744400,1745,0
-322,"Binomial coefficients divisible by 10",1296360000,459,0
-323,"Bitwise-OR operations on random integers",1296975600,3922,0
-324,"Building a tower",1297591200,702,0
-325,"Stone Game II",1298120400,598,0
-326,"Modulo Summations",1298736000,523,0
-327,"Rooms of Doom",1299351600,1139,0
-328,"Lowest-cost Search",1299967200,427,0
-329,"Prime Frog",1300582800,2540,0
-330,"Euler's Number",1301198400,526,0
-331,"Cross flips",1301814000,401,0
-332,"Spherical triangles",1302426000,603,0
-333,"Special partitions",1302955200,1241,0
-334,"Spilling the beans",1303570800,475,0
-335,"Gathering the beans",1303570800,509,0
-336,"Maximix Arrangements",1304186400,2083,0
-337,"Totient Stairstep Sequences",1304802000,511,0
-338,"Cutting Rectangular Grid Paper",1305417600,325,0
-339,"Peredur fab Efrawg",1306033200,547,0
-340,"Crazy Function",1306648800,1115,0
-341,"Golomb's self-describing sequence",1307264400,931,0
-342,"The totient of a square is a cube",1307793600,798,0
-343,"Fractional Sequences",1308409200,1409,0
-344,"Silver dollar game",1309024800,318,0
-345,"Matrix Sum",1315062000,5733,0
-346,"Strong Repunits",1315062000,4367,0
-347,"Largest integer divisible by two primes",1315062000,4616,0
-348,"Sum of a square and a cube",1315062000,3059,0
-349,"Langton's ant",1315062000,1928,0
-350,"Constraining the least greatest and the greatest least",1315677600,459,0
-351,"Hexagonal orchards",1316293200,2583,0
-352,"Blood tests",1317513600,607,0
-353,"Risky moon",1318129200,485,0
-354,"Distances in a bee's honeycomb ",1318744800,434,0
-355,"Maximal coprime subset",1319360400,525,0
-356,"Largest roots of cubic polynomials",1319889600,592,0
-357,"Prime generating integers",1320508800,8237,0
-358,"Cyclic numbers",1321124400,1618,0
-359,"Hilbert's New Hotel",1321740000,1548,0
-360,"Scary Sphere",1322355600,587,0
-361,"Subsequence of Thue-Morse sequence",1322971200,300,0
-362,"Squarefree factors",1323586800,471,0
-363,"Bézier Curves",1324202400,1118,0
-364,"Comfortable distance",1324731600,701,0
-365,"A huge binomial coefficient",1325347200,1260,0
-366,"Stone Game III",1325962800,675,0
-367,"Bozo sort",1326578400,510,0
-368,"A Kempner-like series",1327194000,550,0
-369,"Badugi",1327809600,465,0
-370,"Geometric triangles",1328425200,520,0
-371,"Licence plates",1329040800,1624,0
-372,"Pencils of rays",1329570000,404,0
-373,"Circumscribed Circles",1330185600,340,0
-374,"Maximum Integer Partition Product",1330801200,681,0
-375,"Minimum of subsequences",1331416800,884,0
-376,"Nontransitive sets of dice",1332032400,271,0
-377,"Sum of digits - experience #13",1332648000,713,0
-378,"Triangle Triples",1333260000,865,0
-379,"Least common multiple count",1333879200,514,0
-380,"Amazing Mazes!",1334408400,509,0
-381,"(prime-k) factorial",1335024000,4267,0
-382,"Generating polygons",1335639600,334,0
-383,"Divisibility comparison between factorials",1336255200,474,0
-384,"Rudin-Shapiro sequence",1336870800,329,0
-385,"Ellipses inside triangles",1337486400,279,0
-386,"Maximum length of an antichain",1338102000,725,0
-387,"Harshad Numbers",1338717600,4739,0
-388,"Distinct Lines",1339246800,575,0
-389,"Platonic Dice",1339862400,1539,0
-390,"Triangles with non rational sides and integral area",1340478000,567,0
-391,"Hopping Game",1341093600,273,0
-392,"Enmeshed unit circle",1346504400,780,0
-393,"Migrating ants",1347120000,770,0
-394,"Eating pie",1347735600,527,0
-395,"Pythagorean tree",1348351200,694,0
-396,"Weak Goodstein sequence",1348966800,666,0
-397,"Triangle on parabola",1349582400,271,0
-398,"Cutting rope",1350198000,375,0
-399,"Squarefree Fibonacci Numbers",1350813600,564,0
-400,"Fibonacci tree game",1351342800,468,0
-401,"Sum of squares of divisors",1352563200,2571,0
-402,"Integer-valued polynomials",1353178800,403,0
-403,"Lattice points enclosed by parabola and line",1353794400,355,0
-404,"Crisscross Ellipses",1354410000,323,0
-405,"A rectangular tiling",1355025600,605,0
-406,"Guessing Game",1355641200,373,0
-407,"Idempotents",1356256800,2465,0
-408,"Admissible paths through a grid",1356786000,565,0
-409,"Nim Extreme",1357401600,451,0
-410,"Circle and tangent line",1358017200,278,0
-411,"Uphill paths",1358632800,643,0
-412,"Gnomon numbering",1359248400,491,0
-413,"One-child Numbers",1359864000,377,0
-414,"Kaprekar constant",1360479600,280,0
-415,"Titanic sets",1361095200,307,0
-416,"A frog's trip",1361624400,290,0
-417,"Reciprocal cycles II",1362240000,852,0
-418,"Factorisation triples",1362855600,687,0
-419,"Look and say sequence",1363471200,485,0
-420,"2x2 positive integer matrix",1364086800,433,0
-421,"Prime factors of <var>n</var><sup>15</sup>+1",1364698800,644,0
-422,"Sequence of points on a hyperbola",1365314400,270,0
-423,"Consecutive die throws",1365930000,482,0
-424,"Kakuro",1366459200,401,0
-425,"Prime connection",1367074800,1465,0
-426,"Box-ball system",1367690400,254,0
-427,"n-sequences",1368306000,305,0
-428,"Necklace of circles",1368921600,241,0
-429,"Sum of squares of unitary divisors",1369537200,2539,0
-430,"Range flips",1370152800,861,0
-431,"Square Space Silo",1370768400,614,0
-432,"Totient sum",1371297600,483,0
-433,"Steps in Euclid's algorithm",1371913200,472,0
-434,"Rigid graphs",1372528800,337,0
-435,"Polynomials of Fibonacci numbers",1378566000,1121,0
-436,"Unfair wager",1379181600,454,0
-437,"Fibonacci primitive roots",1379797200,783,0
-438,"Integer part of polynomial equation's solutions",1380412800,272,0
-439,"Sum of sum of divisors",1381028400,387,0
-440,"GCD and Tiling",1381644000,373,0
-441,"The inverse summation of coprime couples",1382259600,351,0
-442,"Eleven-free integers",1382788800,391,0
-443,"GCD sequence",1383408000,1128,0
-444,"The Roundtable Lottery",1384023600,301,0
-445,"Retractions A",1384639200,373,0
-446,"Retractions B",1384639200,358,0
-447,"Retractions C",1384639200,286,0
-448,"Average least common multiple",1385254800,338,0
-449,"Chocolate covered candy",1386475200,903,0
-450,"Hypocycloid and Lattice points",1387090800,192,0
-451,"Modular inverses",1387706400,1431,0
-452,"Long Products",1388235600,574,0
-453,"Lattice Quadrilaterals",1388851200,212,0
-454,"Diophantine reciprocals III",1389466800,470,0
-455,"Powers With Trailing Digits",1390082400,710,0
-456,"Triangles containing the origin II",1390698000,397,0
-457,"A polynomial modulo the square of a prime",1391313600,785,0
-458,"Permutations of Project",1391929200,921,0
-459,"Flipping game",1392544800,233,0
-460,"An ant on the move",1393074000,324,0
-461,"Almost Pi",1393689600,1195,0
-462,"Permutation of 3-smooth numbers",1394305200,314,0
-463,"A weird recurrence relation",1394920800,1086,0
-464,"Möbius function and intervals",1395536400,314,0
-465,"Polar polygons",1396152000,217,0
-466,"Distinct terms in a multiplication table",1396764000,311,0
-467,"Superinteger",1397379600,431,0
-468,"Smooth divisors of binomial coefficients",1397908800,268,0
-469,"Empty chairs",1398524400,742,0
-470,"Super Ramvok",1399140000,228,0
-471,"Triangle inscribed in ellipse",1399755600,216,0
-472,"Comfortable Distance II",1400371200,258,0
-473,"Phigital number base",1400986800,729,0
-474,"Last digits of divisors",1401602400,415,0
-475,"Music festival",1402218000,445,0
-476,"Circle Packing II",1402747200,416,0
-477,"Number Sequence Game",1408806000,260,0
-478,"Mixtures",1409421600,188,0
-479,"Roots on the Rise",1410037200,1291,0
-480,"The Last Question",1410652800,573,0
-481,"Chef Showdown",1411268400,242,0
-482,"The incenter of a triangle",1411884000,211,0
-483,"Repeated permutation",1412499600,223,0
-484,"Arithmetic Derivative",1413028800,351,0
-485,"Maximum number of divisors",1413644400,1153,0
-486,"Palindrome-containing strings",1414260000,254,0
-487,"Sums of power sums",1414879200,642,0
-488,"Unbalanced Nim",1415494800,238,0
-489,"Common factors between two sequences",1416110400,232,0
-490,"Jumping frog",1416726000,291,0
-491,"Double pandigital number divisible by 11",1417341600,2155,0
-492,"Exploding sequence",1417870800,348,0
-493,"Under The Rainbow",1418486400,5350,0
-494,"Collatz prefix families",1419102000,216,0
-495,"Writing n as the product of k distinct positive integers",1419717600,288,0
-496,"Incenter and circumcenter of triangle",1420333200,300,0
-497,"Drunken Tower of Hanoi",1420948800,535,0
-498,"Remainder of polynomial division",1421564400,512,0
-499,"St. Petersburg Lottery",1422180000,320,0
-500,"Problem 500!!!",1422709200,4013,0
-501,"Eight Divisors",1422709200,1330,0
-502,"Counting Castles",1423324800,288,0
-503,"Compromise or persist",1423940400,313,0
-504,"Square on the Inside",1424556000,3052,0
-505,"Bidirectional Recurrence",1425171600,204,0
-506,"Clock sequence",1425787200,869,0
-507,"Shortest Lattice Vector",1426402800,213,0
-508,"Integers in base i-1",1427018400,231,0
-509,"Divisor Nim",1427547600,558,0
-510,"Tangent Circles",1428159600,1023,0
-511,"Sequences with nice divisibility properties",1428775200,401,0
-512,"Sums of totients of powers",1429390800,1494,0
-513,"Integral median",1430006400,301,0
-514,"Geoboard Shapes",1430622000,209,0
-515,"Dissonant Numbers",1431237600,461,0
-516,"5-smooth totients",1431853200,1562,0
-517,"A real recursion",1432382400,450,0
-518,"Prime triples and geometric sequences",1432998000,1593,0
-519,"Tricoloured Coin Fountains",1433613600,336,0
-520,"Simbers",1434229200,397,0
-521,"Smallest prime factor",1434844800,729,0
-522,"Hilbert's Blackout",1435460400,260,0
-523,"First Sort I",1441519200,982,0
-524,"First Sort II",1441519200,215,0
-525,"Rolling Ellipse",1442134800,489,0
-526,"Largest prime factors of consecutive numbers",1442664000,300,0
-527,"Randomized Binary Search",1443279600,728,0
-528,"Constrained Sums",1443895200,271,0
-529,"10-substrings",1444510800,244,0
-530,"GCD of Divisors",1445126400,440,0
-531,"Chinese leftovers",1445745600,1123,0
-532,"Nanobots on Geodesics",1446361200,300,0
-533,"Minimum values of the Carmichael function",1446976800,319,0
-534,"Weak Queens",1447506000,296,0
-535,"Fractal Sequence",1448121600,282,0
-536,"Modulo power identity ",1448737200,283,0
-537,"Counting tuples",1449352800,606,0
-538,"Maximum quadrilaterals",1449968400,319,0
-539,"Odd elimination",1450584000,808,0
-540,"Counting primitive Pythagorean triples",1451199600,631,0
-541,"Divisibility of Harmonic Number Denominators",1451815200,202,0
-542,"Geometric Progression with Maximum Sum",1452344400,223,0
-543,"Prime-Sum Numbers",1452960000,681,0
-544,"Chromatic Conundrum",1453575600,237,0
-545,"Faulhaber's Formulas",1454191200,518,0
-546,"The Floor's Revenge",1454806800,227,0
-547,"Distance of random points within hollow square laminae",1455422400,215,0
-548,"Gozinta Chains",1456038000,598,0
-549,"Divisibility of factorials",1456653600,2706,0
-550,"Divisor game",1457182800,340,0
-551,"Sum of digits sequence",1457798400,461,0
-552,"Chinese leftovers II",1458414000,430,0
-553,"Power sets of power sets",1459029600,204,0
-554,"Centaurs on a chess board",1459641600,232,0
-555,"McCarthy 91 function",1460257200,685,0
-556,"Squarefree Gaussian Integers",1460872800,247,0
-557,"Cutting triangles",1461488400,282,0
-558,"Irrational base",1462017600,245,0
-559,"Permuted Matrices",1462633200,189,0
-560,"Coprime Nim",1463248800,305,0
-561,"Divisor Pairs",1463864400,751,0
-562,"Maximal perimeter",1464480000,186,0
-563,"Robot Welders",1465095600,321,0
-564,"Maximal polygons",1465711200,234,0
-565,"Divisibility of sum of divisors",1466326800,604,0
-566,"Cake Icing Puzzle",1466856000,163,0
-567,"Reciprocal games I",1472914800,286,0
-568,"Reciprocal games II",1472914800,278,0
-569,"Prime Mountain Range",1473530400,393,0
-570,"Snowflakes",1474146000,268,0
-571,"Super Pandigital Numbers",1474761600,1097,0
-572,"Idempotent matrices",1475377200,329,0
-573,"Unfair race",1475992800,203,0
-574,"Verifying Primes",1476608400,261,0
-575,"Wandering Robots",1477137600,580,0
-576,"Irrational jumps",1477753200,230,0
-577,"Counting hexagons",1478977200,1558,0
-578,"Integers with decreasing prime powers",1479592800,224,0
-579,"Lattice points in lattice cubes",1480208400,162,0
-580,"Squarefree Hilbert numbers",1480824000,239,0
-581,"47-smooth triangular numbers",1481439600,841,0
-582,"Nearly isosceles 120 degree triangles",1482055200,317,0
-583,"Heron Envelopes",1482584400,364,0
-584,"Birthday Problem Revisited",1483200000,201,0
-585,"Nested square roots",1483815600,170,0
-586,"Binary Quadratic Form",1484431200,228,0
-587,"Concave triangle",1485046800,3097,0
-588,"Quintinomial coefficients",1485662400,431,0
-589,"Poohsticks Marathon",1486278000,198,0
-590,"Sets with a given Least Common Multiple",1486893600,252,0
-591,"Best Approximations by Quadratic Integers",1487422800,189,0
-592,"Factorial trailing digits 2",1488038400,274,0
-593,"Fleeting Medians",1488654000,524,0
-594,"Rhombus Tilings",1489269600,178,0
-595,"Incremental Random Sort",1489885200,613,0
-596,"Number of lattice points in a hyperball",1490497200,353,0
-597,"Torpids",1491112800,167,0
-598,"Split Divisibilities",1491728400,473,0
-599,"Distinct Colourings of a Rubik's Cube",1492257600,295,0
-600,"Integer sided equiangular hexagons",1492873200,603,0
-601,"Divisibility streaks",1493488800,2016,0
-602,"Product of Head Counts",1494104400,483,0
-603,"Substring sums of prime concatenations",1494720000,412,0
-604,"Convex path in square",1495335600,494,0
-605,"Pairwise Coin-Tossing Game",1495951200,833,0
-606,"Gozinta Chains II",1496566800,367,0
-607,"Marsh Crossing",1497096000,1677,0
-608,"Divisor Sums",1497711600,295,0
-609,"π sequences",1504969200,912,0
-610,"Roman Numerals II",1506189600,561,0
-611,"Hallway of square steps",1507410000,324,0
-612,"Friend numbers",1508630400,661,0
-613,"Pythagorean Ant",1509854400,1768,0
-614,"Special partitions 2",1511074800,307,0
-615,"The millionth number with at least one million prime factors",1512295200,569,0
-616,"Creative numbers",1513429200,474,0
-617,"Mirror Power Sequence",1514649600,372,0
-618,"Numbers with a given prime factor sum",1515870000,1012,0
-619,"Square subsets",1517090400,389,0
-620,"Planetary Gears",1518310800,172,0
-621,"Expressing an integer as the sum of triangular numbers",1519531200,542,0
-622,"Riffle Shuffles",1520751600,1700,0
-623,"Lambda Count",1521968400,308,0
-624,"Two heads are better than one",1523102400,607,0
-625,"Gcd sum",1524322800,580,0
-626,"Counting Binary Matrices",1525543200,218,0
-627,"Counting products",1526763600,233,0
-628,"Open chess positions",1527984000,775,0
-629,"Scatterstone Nim",1529204400,234,0
-630,"Crossed lines",1530424800,967,0
-631,"Constrained Permutations",1531645200,191,0
-632,"Square prime factors",1532779200,458,0
-633,"Square prime factors II",1532779200,309,0
-634,"Numbers of the form $a^2b^3$",1533999600,585,0
-635,"Subset sums",1535220000,329,0
-636,"Restricted Factorisations",1536440400,181,0
-637,"Flexible digit sum",1537660800,314,0
-638,"Weighted lattice paths",1538881200,357,0
-639,"Summing a multiplicative function",1540101600,251,0
-640,"Shut the Box",1540720800,335,0
-641,"A Long Row of Dice",1541250000,462,0
-642,"Sum of largest prime factors",1541865600,342,0
-643,"2-Friendly",1542481200,579,0
-644,"Squares on the line",1543096800,155,0
-645,"Every Day is a Holiday",1543712400,202,0
-646,"Bounded Divisors",1544328000,263,0
-647,"Linear Transformations of Polygonal Numbers",1544943600,422,0
-648,"Skipping Squares",1545559200,273,0
-649,"Low-Prime Chessboard Nim",1546088400,390,0
-650,"Divisors of Binomial Product",1546704000,1585,0
-651,"Patterned Cylinders",1547319600,159,0
-652,"Distinct values of a proto-logarithmic function",1547935200,163,0
-653,"Frictionless Tube",1548550800,293,0
-654,"Neighbourly Constraints",1549166400,324,0
-655,"Divisible Palindromes",1549782000,496,0
-656,"Palindromic sequences",1550397600,233,0
-657,"Incomplete words",1550926800,509,0
-658,"Incomplete words II",1550926800,234,0
-659,"Largest prime",1551542400,880,0
-660,"Pandigital Triangles",1552158000,288,0
-661,"A Long Chess Match",1552773600,214,0
-662,"Fibonacci paths",1553389200,758,0
-663,"Sums of subarrays",1554001200,339,0
-664,"An infinite game",1554616800,184,0
-665,"Proportionate Nim",1555232400,245,0
-666,"Polymorphic Bacteria",1555761600,265,0
-667,"Moving Pentagon",1556377200,194,0
-668,"Square root smooth Numbers",1556992800,997,0
-669,"The King's Banquet",1557608400,302,0
-670,"Colouring a Strip",1558224000,317,0
-671,"Colouring a Loop",1558224000,160,0
-672,"One more one",1558839600,263,0
-673,"Beds and Desks",1559455200,308,0
-674,"Solving $\mathcal{I}$-equations",1560070800,168,0
-675,"$2^{\omega(n)}$",1560600000,697,0
-676,"Matching Digit Sums",1561215600,227,0
-677,"Coloured Graphs",1561831200,170,0
-678,"Fermat-like Equations",1567890000,225,0
-679,"Freefarea",1568505600,804,0
-680,"Yarra Gnisrever",1569121200,180,0
-681,"Maximal Area",1569736800,216,0
-682,"5-Smooth Pairs",1570352400,258,0
-683,"The Chase II",1570881600,311,0
-684,"Inverse Digit Sum",1571497200,2439,0
-685,"Inverse Digit Sum II",1571497200,191,0
-686,"Powers of Two",1572112800,3142,0
-687,"Shuffling Cards",1572732000,280,0
-688,"Piles of Plates",1573347600,705,0
-689,"Binary Series",1573963200,222,0
-690,"Tom and Jerry",1574578800,188,0
-691,"Long substring with many repetitions",1575194400,253,0
-692,"Siegbert and Jo",1575723600,1206,0
-693,"Finite Sequence Generator",1576339200,273,0
-694,"Cube-full Divisors",1576954800,893,0
-695,"Random Rectangles",1577570400,199,0
-696,"Mahjong",1578186000,163,0
-697,"Randomly Decaying Sequence",1578801600,524,0
-698,"123 Numbers",1579417200,405,0
-699,"Triffle Numbers",1580032800,178,0
-700,"Eulercoin",1580562000,2884,0
-701,"Random connected area",1581177600,314,0
-702,"Jumping Flea",1581793200,149,0
-703,"Circular Logic II",1582408800,282,0
-704,"Factors of Two in Binomial Coefficients",1583024400,826,0
-705,"Total Inversion Count of Divided Sequences",1583640000,405,0
-706,"3-Like Numbers",1584255600,509,0
-707,"Lights Out",1584871200,213,0
-708,"Twos are all you need",1585400400,290,0
-709,"Even Stevens",1586016000,745,0
-710,"One Million Members",1586631600,1057,0
-711,"Binary Blackboard",1586631600,301,0
-712,"Exponent Difference",1587247200,450,0
-713,"Turán's water heating system",1587862800,633,0
-714,"Duodigits",1588478400,652,0
-715,"Sextuplet Norms",1589094000,181,0
-716,"Grid Graphs",1589709600,209,0
-717,"Summation of a Modular Formula",1590238800,432,0
-718,"Unreachable Numbers",1590854400,309,0
-719,"Number Splitting",1591470000,2958,0
-720,"Unpredictable Permutations",1592085600,280,0
-721,"High powers of irrational numbers",1592701200,384,0
-722,"Slowly converging series",1593316800,461,0
-723,"Pythagorean Quadrilaterals",1593932400,169,0
-724,"Drone Delivery",1599310800,355,0
-725,"Digit sum numbers",1599926400,908,0
-726,"Falling bottles",1600542000,183,0
-727,"Triangle of Circular Arcs",1601157600,463,0
-728,"Circle of Coins",1601773200,253,0
-729,"Range of periodic sequence",1602388800,152,0
-730,"Shifted Pythagorean Triples",1603004400,164,0
-731,"A Stoneham Number",1603620000,478,0
-732,"Standing on the shoulders of trolls",1604149200,197,0
-733,"Ascending subsequences",1604764800,416,0
-734,"A bit of prime",1605380400,295,0
-735,"Divisors of $2n^2$",1605996000,197,0
-736,"Paths to Equality",1606611600,211,0
-737,"Coin Loops",1607227200,315,0
-738,"Counting Ordered Factorisations",1607842800,244,0
-739,"Summation of Summations",1608458400,452,0
-740,"Secret Santa",1608987600,187,0
-741,"Binary grid colouring",1609603200,144,0
-742,"Minimum area of a convex grid polygon",1610218800,154,0
-743,"Window into a Matrix",1610834400,927,0
-744,"What? Where? When?",1611450000,270,0
-745,"Sum of Squares II",1612065600,916,0
-746,"A Messy Dinner",1612681200,246,0
-747,"Triangular Pizza",1613296800,180,0
-748,"Upside down Diophantine equation",1613826000,275,0
-749,"Near Power Sums",1614441600,578,0
-750,"Optimal Card Stacking",1615057200,287,0
-751,"Concatenation Coincidence",1615672800,1792,0
-752,"Powers of $1+\sqrt 7$",1616288400,555,0
-753,"Fermat Equation",1616904000,357,0
-754,"Product of Gauss Factorials",1617519600,562,0
-755,"Not Zeckendorf",1618740000,712,0
-756,"Approximating a Sum",1619874000,304,0
-757,"Stealthy Numbers",1621094400,949,0
-758,"Buckets of Water",1622314800,212,0
-759,"A squared recurrence relation",1623535200,472,0
-760,"Sum over Bitwise Operators",1624755600,377,0
-761,"Runner and Swimmer",1625976000,133,0
-762,"Amoebas in a 2D grid",1630760400,169,0
-763,"Amoebas in a 3D grid",1630760400,57,0
-764,"Asymmetric Diophantine Equation",1631376000,303,0
-765,"Trillionaire",1631991600,182,0
-766,"Sliding Block Puzzle",1633212000,268,0
-767,"Window into a Matrix II",1633827600,155,0
-768,"Chandelier",1634443200,116,0
-769,"Binary Quadratic Form II",1635055200,114,0
-770,"Delphi Flip",1635674400,443,0
-771,"Pseudo Geometric Sequences",1636203600,109,0
-772,"Balanceable $k$-bounded partitions",1636819200,413,0
-773,"Ruff Numbers",1637434800,173,0
-774,"Conjunctive Sequences",1638050400,109,0
-775,"Saving Paper",1638666000,214,0
-776,"Digit Sum Division",1639281600,444,0
-777,"Lissajous Curves",1639897200,95,0
-778,"Freshman's Product",1640512800,334,0
-779,"Prime Factor and Exponent",1641042000,392,0
-780,"Toriangulations",1641657600,56,0
-781,"Feynman Diagrams",1642273200,107,0
-782,"Distinct Rows and Columns",1642888800,140,0
-783,"Urns",1643504400,177,0
-784,"Reciprocal Pairs",1644120000,331,0
-785,"Symmetric Diophantine equation",1644735600,167,0
-786,"Billiard",1645351200,101,0
-787,"Bézout's Game",1645880400,173,0
-788,"Dominating Numbers",1646496000,784,0
-789,"Minimal pairing modulo $p$",1647111600,157,0
-790,"Clock Grid",1647727200,231,0
-791,"Average and Variance",1648342800,143,0
-792,"Too Many Twos",1648958400,83,0
-793,"Median of Products",1649574000,489,0
-794,"Seventeen Points",1650189600,263,0
-795,"Alternating GCD Sum",1650718800,251,0
-796,"A Grand Shuffle",1651334400,162,0
-797,"Cyclogenic Polynomials",1651950000,151,0
-798,"Card Stacking Game",1652565600,84,0
-799,"Pentagonal Puzzle",1653181200,189,0
-800,"Hybrid Integers",1653796800,985,0
-801,"$x^y \equiv y^x$",1654412400,184,0
-802,"Iterated Composition",1655028000,184,0
-803,"Pseudorandom sequence",1655557200,175,0
-804,"Counting Binary Quadratic Representations",1656172800,473,0
-805,"Shifted Multiples",1656788400,147,0
-806,"Nim on Towers of Hanoi",1657404000,80,0
-807,"Loops of Ropes",1662858000,82,0
-808,"Reversible prime squares",1663473600,925,0
-809,"Rational Recurrence Relation ",1664089200,213,0
-810,"XOR-Primes",1664704800,419,0
-811,"Bitwise Recursion",1665234000,167,0
-812,"Dynamical Polynomials",1665849600,63,0
-813,"XOR-Powers",1666465200,277,0
-814,"Mezzo-forte",1667080800,147,0
-815,"Group by Value",1667696400,237,0
-816,"Shortest distance among points",1668312000,540,0
-817,"Digits in Squares",1668927600,239,0
-818,"SET",1669543200,53,0
-819,"Iterative Sampling",1670072400,32,0
+1,"Multiples of $3$ or $5$",1002301200,981547,1
+2,"Even Fibonacci Numbers",1003510800,783141,1
+3,"Largest Prime Factor",1004724000,564030,1
+4,"Largest Palindrome Product",1005933600,499208,1
+5,"Smallest Multiple",1007143200,502332,1
+6,"Sum Square Difference",1008352800,505519,1
+7,"$10001$st Prime",1009562400,432814,1
+8,"Largest Product in a Series",1010772000,363043,1
+9,"Special Pythagorean Triplet",1011981600,368050,1
+10,"Summation of Primes",1013191200,337602,1
+11,"Largest Product in a Grid",1014400800,242880,0
+12,"Highly Divisible Triangular Number",1015610400,229467,1
+13,"Large Sum",1016820000,234762,1
+14,"Longest Collatz Sequence",1018026000,235100,1
+15,"Lattice Paths",1019235600,194268,0
+16,"Power Digit Sum",1020445200,237288,1
+17,"Number Letter Counts",1021654800,157945,1
+18,"Maximum Path Sum I",1022864400,151237,1
+19,"Counting Sundays",1024074000,140512,1
+20,"Factorial Digit Sum",1024678800,205537,1
+21,"Amicable Numbers",1025888400,152516,1
+22,"Names Scores",1027098000,140323,1
+23,"Non-Abundant Sums",1028307600,109264,1
+24,"Lexicographic Permutations",1029517200,119893,1
+25,"$1000$-digit Fibonacci Number",1030726800,161719,1
+26,"Reciprocal Cycles",1031936400,88355,1
+27,"Quadratic Primes",1033146000,91798,1
+28,"Number Spiral Diagonals",1034355600,112786,1
+29,"Distinct Powers",1035565200,110410,1
+30,"Digit Fifth Powers",1036778400,114948,1
+31,"Coin Sums",1037988000,89450,1
+32,"Pandigital Products",1039197600,75046,0
+33,"Digit Cancelling Fractions",1040407200,75390,0
+34,"Digit Factorials",1041616800,98631,1
+35,"Circular Primes",1042826400,88826,0
+36,"Double-base Palindromes",1044036000,92932,0
+37,"Truncatable Primes",1045245600,77284,0
+38,"Pandigital Multiples",1046455200,66368,0
+39,"Integer Right Triangles",1047664800,76863,0
+40,"Champernowne's Constant",1048874400,83936,0
+41,"Pandigital Prime",1050080400,71686,0
+42,"Coded Triangle Numbers",1051290000,77993,0
+43,"Sub-string Divisibility",1052499600,63116,0
+44,"Pentagon Numbers",1053709200,61761,0
+45,"Triangular, Pentagonal, and Hexagonal",1054918800,74397,0
+46,"Goldbach's Other Conjecture",1056128400,64915,0
+47,"Distinct Primes Factors",1057338000,61151,0
+48,"Self Powers",1058547600,116729,0
+49,"Prime Permutations",1059757200,61051,0
+50,"Consecutive Prime Sum",1060966800,65799,0
+51,"Prime Digit Replacements",1062176400,36196,0
+52,"Permuted Multiples",1063386000,68443,0
+53,"Combinatoric Selections",1064595600,61850,0
+54,"Poker Hands",1065805200,38309,0
+55,"Lychrel Numbers",1067014800,56587,0
+56,"Powerful Digit Sum",1068228000,61112,0
+57,"Square Root Convergents",1069437600,44057,0
+58,"Spiral Primes",1070647200,42509,0
+59,"XOR Decryption",1071856800,43498,0
+60,"Prime Pair Sets",1073066400,28597,0
+61,"Cyclical Figurate Numbers",1074276000,27216,0
+62,"Cubic Permutations",1075485600,33493,0
+63,"Powerful Digit Counts",1076695200,45514,0
+64,"Odd Period Square Roots",1077904800,23622,0
+65,"Convergents of $e$",1079114400,31662,0
+66,"Diophantine Equation",1080324000,21062,0
+67,"Maximum Path Sum II",1081530000,99799,0
+68,"Magic 5-gon Ring",1082739600,22165,0
+69,"Totient Maximum",1083949200,36869,0
+70,"Totient Permutation",1085158800,23762,0
+71,"Ordered Fractions",1086368400,31019,0
+72,"Counting Fractions",1087578000,23804,0
+73,"Counting Fractions in a Range",1088787600,26529,0
+74,"Digit Factorial Chains",1089997200,28340,0
+75,"Singular Integer Right Triangles",1091206800,19250,0
+76,"Counting Summations",1092416400,30218,0
+77,"Prime Summations",1093626000,20473,0
+78,"Coin Partitions",1094835600,18110,0
+79,"Passcode Derivation",1095440400,42922,0
+80,"Square Root Digital Expansion",1097254800,21116,0
+81,"Path Sum: Two Ways",1098464400,36164,0
+82,"Path Sum: Three Ways",1099677600,22397,0
+83,"Path Sum: Four Ways",1100887200,19344,0
+84,"Monopoly Odds",1102096800,13540,0
+85,"Counting Rectangles",1103306400,26157,0
+86,"Cuboid Route",1105120800,13595,0
+87,"Prime Power Triples",1106330400,22158,0
+88,"Product-sum Numbers",1107540000,10849,0
+89,"Roman Numerals",1108749600,22373,0
+90,"Cube Digit Pairs",1109959200,12111,0
+91,"Right Triangles with Integer Coordinates",1111168800,16433,0
+92,"Square Digit Chains",1112374800,43618,0
+93,"Arithmetic Expressions",1113584400,12640,0
+94,"Almost Equilateral Triangles",1114794000,13271,0
+95,"Amicable Chains",1116003600,15306,0
+96,"Su Doku",1117213200,18254,0
+97,"Large Non-Mersenne Prime",1118422800,45165,0
+98,"Anagramic Squares",1119027600,12201,0
+99,"Largest Exponential",1120237200,32204,0
+100,"Arranged Probability",1121446800,17393,0
+101,"Optimum Polynomial",1122656400,12310,0
+102,"Triangle Containment",1123866000,23158,0
+103,"Special Subset Sums: Optimum",1125075600,8609,0
+104,"Pandigital Fibonacci Ends",1126285200,17093,0
+105,"Special Subset Sums: Testing",1127494800,8576,0
+106,"Special Subset Sums: Meta-testing",1128704400,6848,0
+107,"Minimal Network",1129914000,11662,0
+108,"Diophantine Reciprocals I",1131127200,13369,0
+109,"Darts",1132336800,8666,0
+110,"Diophantine Reciprocals II",1133546400,8587,0
+111,"Primes with Runs",1134756000,7715,0
+112,"Bouncy Numbers",1135965600,25847,0
+113,"Non-bouncy Numbers",1139594400,11693,0
+114,"Counting Block Combinations I",1140199200,11447,0
+115,"Counting Block Combinations II",1140804000,10464,0
+116,"Red, Green or Blue Tiles",1141408800,12774,0
+117,"Red, Green, and Blue Tiles",1142013600,11756,0
+118,"Pandigital Prime Sets",1143223200,7423,0
+119,"Digit Power Sum",1144429200,13010,0
+120,"Square Remainders",1145638800,14522,0
+121,"Disc Game Prize Fund",1148058000,10267,0
+122,"Efficient Exponentiation",1149267600,8283,0
+123,"Prime Square Remainders",1150477200,12130,0
+124,"Ordered Radicals",1152896400,14378,0
+125,"Palindromic Sums",1154710800,14251,0
+126,"Cuboid Layers",1155920400,5039,0
+127,"abc-hits",1157130000,6622,0
+128,"Hexagonal Tile Differences",1159549200,5312,0
+129,"Repunit Divisibility",1161968400,6651,0
+130,"Composites with Prime Repunit Property",1161968400,6261,0
+131,"Prime Cube Partnership",1163181600,7794,0
+132,"Large Repunit Factors",1164996000,6706,0
+133,"Repunit Nonfactors",1164996000,5843,0
+134,"Prime Pair Connection",1166205600,7412,0
+135,"Same Differences",1167415200,6770,0
+136,"Singleton Difference",1167415200,6024,0
+137,"Fibonacci Golden Nuggets",1168624800,5847,0
+138,"Special Isosceles Triangles",1169290800,6166,0
+139,"Pythagorean Tiles",1169888400,5982,0
+140,"Modified Fibonacci Golden Nuggets",1170486000,4612,0
+141,"Square Progressive Numbers",1171688400,4199,0
+142,"Perfect Square Collection",1172278800,6141,0
+143,"Torricelli Triangles",1172869200,2933,0
+144,"Laser Beam Reflections ",1173459600,6622,0
+145,"Reversible Numbers",1174050000,17462,0
+146,"Investigating a Prime Pattern ",1174726800,5361,0
+147,"Rectangles in Cross-hatched Grids",1175317200,3220,0
+148,"Exploring Pascal's Triangle",1175907600,5437,0
+149,"Maximum-sum Subsequence",1176498000,5110,0
+150,"Sub-triangle Sums",1176498000,4184,0
+151,"A Preference for A5",1177088400,5839,0
+152,"Sums of Square Reciprocals",1177678800,2861,0
+153,"Investigating Gaussian Integers",1178355600,2779,0
+154,"Exploring Pascal's Pyramid",1178946000,2792,0
+155,"Counting Capacitor Circuits",1179536400,3802,0
+156,"Counting Digits",1180126800,2588,0
+157,"Base-10 Diophantine Reciprocal",1180717200,2881,0
+158,"Lexicographical Neighbours",1181912400,3839,0
+159,"Digital Root Sums of Factorisations",1183208400,3472,0
+160,"Factorial Trailing Digits",1189170000,3702,0
+161,"Triominoes",1190394000,2257,0
+162,"Hexadecimal Numbers",1191618000,5623,0
+163,"Cross-hatched Triangles",1192237200,1938,0
+164,"Three Consecutive Digital Sum Limit",1192856400,6026,0
+165,"Intersections",1193475600,2755,0
+166,"Criss Cross",1194094800,4332,0
+167,"Investigating Ulam Sequences",1194613200,1801,0
+168,"Number Rotations",1195232400,2818,0
+169,"Sums of Powers of Two",1195851600,5344,0
+170,"Pandigital Concatenating Products",1196470800,2111,0
+171,"Square Sum of the Digital Squares",1197090000,2948,0
+172,"Few Repeated Digits",1197709200,3983,0
+173,"Hollow Square Laminae I",1198328400,9483,0
+174,"Hollow Square Laminae II",1198328400,6141,0
+175,"Fractions and Sum of Powers of Two",1198846800,1892,0
+176,"Common Cathetus Right-angled Triangles",1199466000,2008,0
+177,"Integer Angled Quadrilaterals",1200085200,1358,0
+178,"Step Numbers",1200704400,3586,0
+179,"Consecutive Positive Divisors",1201323600,11712,0
+180,"Golden Triplets",1201942800,1672,0
+181,"Grouping Two Different Coloured Objects",1202562000,2110,0
+182,"RSA Encryption",1203080400,2737,0
+183,"Maximum Product of Parts",1203699600,4884,0
+184,"Triangles Containing the Origin",1204318800,1742,0
+185,"Number Mind",1204938000,3299,0
+186,"Connectedness of a Network",1205557200,3004,0
+187,"Semiprimes",1206176400,11626,0
+188,"Hyperexponentiation",1207314000,6642,0
+189,"Tri-colouring a Triangular Grid",1207929600,2167,0
+190,"Maximising a Weighted Product",1208552400,4339,0
+191,"Prize Strings",1209168000,7391,0
+192,"Best Approximations",1209787200,1724,0
+193,"Squarefree Numbers",1210420800,3526,0
+194,"Coloured Configurations",1211014800,1483,0
+195,"$60$-degree Triangle Inscribed Circles",1211547600,1479,0
+196,"Prime Triplets",1212166800,2717,0
+197,"A Recursively Defined Sequence",1212786000,5112,0
+198,"Ambiguous Numbers",1213405200,1190,0
+199,"Iterative Circle Packing",1214024400,2062,0
+200,"Prime-proof Squbes",1214643600,2513,0
+201,"Subsets with a Unique Sum",1215262800,2431,0
+202,"Laserbeam",1215262800,2679,0
+203,"Squarefree Binomial Coefficients",1220706000,9506,0
+204,"Generalised Hamming Numbers",1220706000,7638,0
+205,"Dice Game",1220706000,15484,0
+206,"Concealed Square",1220706000,25400,0
+207,"Integer Partition Equations",1220706000,4892,0
+208,"Robot Walks",1221224400,1851,0
+209,"Circular Logic",1221843600,2620,0
+210,"Obtuse Angled Triangles",1222462800,1796,0
+211,"Divisor Square Sum",1223082000,4370,0
+212,"Combined Volume of Cuboids",1223701200,1456,0
+213,"Flea Circus",1224320400,2444,0
+214,"Totient Chains",1224939600,5434,0
+215,"Crack-free Walls",1225458000,3837,0
+216,"The Primality of $2n^2 - 1$",1226077200,4266,0
+217,"Balanced Numbers",1226696400,1588,0
+218,"Perfect Right-angled Triangles",1227315600,3154,0
+219,"Skew-cost Coding",1227934800,1538,0
+220,"Heighway Dragon",1228554000,2267,0
+221,"Alexandrian Integers",1229173200,2198,0
+222,"Sphere Packing",1229691600,2177,0
+223,"Almost Right-angled Triangles I",1230310800,1611,0
+224,"Almost Right-angled Triangles II",1230310800,1299,0
+225,"Tribonacci Non-divisors",1230310800,4651,0
+226,"A Scoop of Blancmange",1230930000,1828,0
+227,"The Chase",1231549200,2215,0
+228,"Minkowski Sums",1232168400,1397,0
+229,"Four Representations Using Squares",1232787600,1536,0
+230,"Fibonacci Words",1233406800,2995,0
+231,"Prime Factorisation of Binomial Coefficients",1233925200,5678,0
+232,"The Race",1234544400,1872,0
+233,"Lattice Points on a Circle",1235163600,2440,0
+234,"Semidivisible Numbers",1235782800,3387,0
+235,"An Arithmetic Geometric Sequence",1236402000,5189,0
+236,"Luxury Hampers",1237021200,984,0
+237,"Tours on a $4 \times N$ Playing Board",1237640400,1650,0
+238,"Infinite String Tour",1238335200,1011,0
+239,"Twenty-two Foolish Primes",1238774400,1903,0
+240,"Top Dice",1239397200,2283,0
+241,"Perfection Quotients",1240016400,979,0
+242,"Odd Triplets",1240635600,1091,0
+243,"Resilience",1241254800,9930,0
+244,"Sliders",1241874000,1383,0
+245,"Coresilience",1242392400,859,0
+246,"Tangents to an Ellipse",1243008000,839,0
+247,"Squares Under a Hyperbola",1243627200,1543,0
+248,"Euler's Totient Function Equals 13!",1244246400,1363,0
+249,"Prime Subset Sums",1244865600,2644,0
+250,"$250250$",1244865600,3118,0
+251,"Cardano Triplets",1245484800,1457,0
+252,"Convex Holes",1246104000,878,0
+253,"Tidying Up A",1251460800,1070,0
+254,"Sums of Digit Factorials",1252080000,1017,0
+255,"Rounded Square Roots",1252699200,908,0
+256,"Tatami-Free Rooms",1253318400,765,0
+257,"Angular Bisectors",1253937600,720,0
+258,"A Lagged Fibonacci Sequence",1254556800,1679,0
+259,"Reachable Numbers",1255176000,1579,0
+260,"Stone Game",1255694400,1370,0
+261,"Pivotal Square Sums",1256313600,725,0
+262,"Mountain Range",1256936400,758,0
+263,"An Engineers' Dream Come True",1257555600,1089,0
+264,"Triangle Centres",1258174800,599,0
+265,"Binary Circles",1258794000,4373,0
+266,"Pseudo Square Root",1259413200,1776,0
+267,"Billionaire",1259931600,3557,0
+268,"At Least Four Distinct Prime Factors Less Than 100",1260550800,1519,0
+269,"Polynomials with at Least One Integer Root",1261213200,731,0
+270,"Cutting Squares",1261789200,669,0
+271,"Modular Cubes, Part 1",1262408400,2482,0
+272,"Modular Cubes, Part 2",1262408400,1025,0
+273,"Sum of Squares",1263042000,1436,0
+274,"Divisibility Multipliers",1263560400,1465,0
+275,"Balanced Sculptures",1264179600,637,0
+276,"Primitive Triangles",1264798800,1139,0
+277,"A Modified Collatz Sequence",1265418000,3374,0
+278,"Linear Combinations of Semiprimes",1266037200,1091,0
+279,"Triangles with Integral Sides and an Integral Angle ",1266656400,781,0
+280,"Ant and Seeds",1267275600,1095,0
+281,"Pizza Toppings",1267794000,1022,0
+282,"The Ackermann Function",1268413200,1066,0
+283,"Integer Sided Triangles with Integral Area/perimeter Ratio",1269032400,665,0
+284,"Steady Squares",1269651600,1313,0
+285,"Pythagorean Odds",1270267200,1275,0
+286,"Scoring Probabilities",1270267200,2235,0
+287,"Quadtree Encoding (a Simple Compression Algorithm)",1270886400,1507,0
+288,"An Enormous Factorial",1271505600,1727,0
+289,"Eulerian Cycles",1272024000,519,0
+290,"Digital Signature",1272643200,1028,0
+291,"Panaitopol Primes",1273262400,1515,0
+292,"Pythagorean Polygons",1273881600,595,0
+293,"Pseudo-Fortunate Numbers",1274500800,3110,0
+294,"Sum of Digits - Experience #23",1275120000,970,0
+295,"Lenticular Holes",1275739200,480,0
+296,"Angular Bisector and Tangent",1276257600,617,0
+297,"Zeckendorf Representation",1276876800,2889,0
+298,"Selective Amnesia",1277496000,702,0
+299,"Three Similar Triangles",1278115200,654,0
+300,"Protein Folding",1283601600,1163,0
+301,"Nim",1284217200,6790,0
+302,"Strong Achilles Numbers",1284832800,781,0
+303,"Multiples with Small Digits",1285448400,3786,0
+304,"Primonacci",1286064000,2287,0
+305,"Reflexive Position",1286679600,634,0
+306,"Paper-strip Game",1287295200,1269,0
+307,"Chip Defects",1287910800,1738,0
+308,"An Amazing Prime-generating Automaton",1288440000,802,0
+309,"Integer Ladders",1289059200,859,0
+310,"Nim Square",1289674800,1206,0
+311,"Biclinic Integral Quadrilaterals",1290290400,454,0
+312,"Cyclic Paths on Sierpiński Graphs",1290906000,875,0
+313,"Sliding Game",1291521600,1688,0
+314,"The Mouse on the Moon",1292137200,539,0
+315,"Digital Root Clocks",1292752800,3544,0
+316,"Numbers in Decimal Expansions",1293282000,695,0
+317,"Firecracker",1293897600,2799,0
+318,"2011 Nines",1293897600,979,0
+319,"Bounded Sequences",1294513200,419,0
+320,"Factorials Divisible by a Huge Integer",1295128800,909,0
+321,"Swapping Counters",1295744400,1811,0
+322,"Binomial Coefficients Divisible by 10",1296360000,485,0
+323,"Bitwise-OR Operations on Random Integers",1296975600,4060,0
+324,"Building a Tower",1297591200,738,0
+325,"Stone Game II",1298120400,635,0
+326,"Modulo Summations",1298736000,553,0
+327,"Rooms of Doom",1299351600,1178,0
+328,"Lowest-cost Search",1299967200,451,0
+329,"Prime Frog",1300582800,2633,0
+330,"Euler's Number",1301198400,554,0
+331,"Cross Flips",1301814000,430,0
+332,"Spherical Triangles",1302426000,643,0
+333,"Special Partitions",1302955200,1301,0
+334,"Spilling the Beans",1303570800,498,0
+335,"Gathering the Beans",1303570800,539,0
+336,"Maximix Arrangements",1304186400,2171,0
+337,"Totient Stairstep Sequences",1304802000,544,0
+338,"Cutting Rectangular Grid Paper",1305417600,341,0
+339,"Peredur Fab Efrawg",1306033200,588,0
+340,"Crazy Function",1306648800,1162,0
+341,"Golomb's Self-describing Sequence",1307264400,971,0
+342,"The Totient of a Square Is a Cube",1307793600,841,0
+343,"Fractional Sequences",1308409200,1464,0
+344,"Silver Dollar Game",1309024800,337,0
+345,"Matrix Sum",1315062000,5947,0
+346,"Strong Repunits",1315062000,4531,0
+347,"Largest Integer Divisible by Two Primes",1315062000,4794,0
+348,"Sum of a Square and a Cube",1315062000,3189,0
+349,"Langton's Ant",1315062000,2012,0
+350,"Constraining the Least Greatest and the Greatest Least",1315677600,493,0
+351,"Hexagonal Orchards",1316293200,2680,0
+352,"Blood Tests",1317513600,636,0
+353,"Risky Moon",1318129200,507,0
+354,"Distances in a Bee's Honeycomb ",1318744800,465,0
+355,"Maximal Coprime Subset",1319360400,561,0
+356,"Largest Roots of Cubic Polynomials",1319889600,621,0
+357,"Prime Generating Integers",1320508800,8514,0
+358,"Cyclic Numbers",1321124400,1692,0
+359,"Hilbert's New Hotel",1321740000,1592,0
+360,"Scary Sphere",1322355600,614,0
+361,"Subsequence of Thue-Morse Sequence",1322971200,322,0
+362,"Squarefree Factors",1323586800,493,0
+363,"Bézier Curves",1324202400,1171,0
+364,"Comfortable Distance",1324731600,737,0
+365,"A Huge Binomial Coefficient",1325347200,1329,0
+366,"Stone Game III",1325962800,714,0
+367,"Bozo Sort",1326578400,538,0
+368,"A Kempner-like Series",1327194000,575,0
+369,"Badugi",1327809600,487,0
+370,"Geometric Triangles",1328425200,553,0
+371,"Licence Plates",1329040800,1709,0
+372,"Pencils of Rays",1329570000,421,0
+373,"Circumscribed Circles",1330185600,357,0
+374,"Maximum Integer Partition Product",1330801200,715,0
+375,"Minimum of Subsequences",1331416800,927,0
+376,"Nontransitive Sets of Dice",1332032400,294,0
+377,"Sum of Digits - Experience #13",1332648000,752,0
+378,"Triangle Triples",1333260000,912,0
+379,"Least Common Multiple Count",1333879200,547,0
+380,"Amazing Mazes!",1334408400,537,0
+381,"$(\text{prime}-k)$ Factorial",1335024000,4446,0
+382,"Generating Polygons",1335639600,353,0
+383,"Divisibility Comparison Between Factorials",1336255200,496,0
+384,"Rudin-Shapiro Sequence",1336870800,344,0
+385,"Ellipses Inside Triangles",1337486400,295,0
+386,"Maximum Length of an Antichain",1338102000,773,0
+387,"Harshad Numbers",1338717600,4887,0
+388,"Distinct Lines",1339246800,608,0
+389,"Platonic Dice",1339862400,1600,0
+390,"Triangles with Non Rational Sides and Integral Area",1340478000,588,0
+391,"Hopping Game",1341093600,284,0
+392,"Enmeshed Unit Circle",1346504400,817,0
+393,"Migrating Ants",1347120000,802,0
+394,"Eating Pie",1347735600,559,0
+395,"Pythagorean Tree",1348351200,722,0
+396,"Weak Goodstein Sequence",1348966800,693,0
+397,"Triangle on Parabola",1349582400,281,0
+398,"Cutting Rope",1350198000,400,0
+399,"Squarefree Fibonacci Numbers",1350813600,597,0
+400,"Fibonacci Tree Game",1351342800,492,0
+401,"Sum of Squares of Divisors",1352563200,2690,0
+402,"Integer-valued Polynomials",1353178800,427,0
+403,"Lattice Points Enclosed by Parabola and Line",1353794400,372,0
+404,"Crisscross Ellipses",1354410000,339,0
+405,"A Rectangular Tiling",1355025600,642,0
+406,"Guessing Game",1355641200,392,0
+407,"Idempotents",1356256800,2566,0
+408,"Admissible Paths Through a Grid",1356786000,594,0
+409,"Nim Extreme",1357401600,468,0
+410,"Circle and Tangent Line",1358017200,288,0
+411,"Uphill Paths",1358632800,686,0
+412,"Gnomon Numbering",1359248400,516,0
+413,"One-child Numbers",1359864000,403,0
+414,"Kaprekar Constant",1360479600,297,0
+415,"Titanic Sets",1361095200,331,0
+416,"A Frog's Trip",1361624400,300,0
+417,"Reciprocal Cycles II",1362240000,920,0
+418,"Factorisation Triples",1362855600,719,0
+419,"Look and Say Sequence",1363471200,513,0
+420,"$2 \times 2$ Positive Integer Matrix",1364086800,456,0
+421,"Prime Factors of $n^{15}+1$",1364698800,682,0
+422,"Sequence of Points on a Hyperbola",1365314400,287,0
+423,"Consecutive Die Throws",1365930000,508,0
+424,"Kakuro",1366459200,427,0
+425,"Prime Connection",1367074800,1531,0
+426,"Box-Ball System",1367690400,262,0
+427,"$n$-sequences",1368306000,321,0
+428,"Necklace of Circles",1368921600,255,0
+429,"Sum of Squares of Unitary Divisors",1369537200,2644,0
+430,"Range Flips",1370152800,892,0
+431,"Square Space Silo",1370768400,643,0
+432,"Totient Sum",1371297600,509,0
+433,"Steps in Euclid's Algorithm",1371913200,485,0
+434,"Rigid Graphs",1372528800,350,0
+435,"Polynomials of Fibonacci Numbers",1378566000,1170,0
+436,"Unfair Wager",1379181600,478,0
+437,"Fibonacci Primitive Roots",1379797200,825,0
+438,"Integer Part of Polynomial Equation's Solutions",1380412800,285,0
+439,"Sum of Sum of Divisors",1381028400,401,0
+440,"GCD and Tiling",1381644000,392,0
+441,"The Inverse Summation of Coprime Couples",1382259600,373,0
+442,"Eleven-free Integers",1382788800,409,0
+443,"GCD Sequence",1383408000,1182,0
+444,"The Roundtable Lottery",1384023600,319,0
+445,"Retractions A",1384639200,394,0
+446,"Retractions B",1384639200,377,0
+447,"Retractions C",1384639200,311,0
+448,"Average Least Common Multiple",1385254800,361,0
+449,"Chocolate Covered Candy",1386475200,941,0
+450,"Hypocycloid and Lattice Points",1387090800,201,0
+451,"Modular Inverses",1387706400,1497,0
+452,"Long Products",1388235600,598,0
+453,"Lattice Quadrilaterals",1388851200,223,0
+454,"Diophantine Reciprocals III",1389466800,499,0
+455,"Powers with Trailing Digits",1390082400,759,0
+456,"Triangles Containing the Origin II",1390698000,413,0
+457,"A Polynomial Modulo the Square of a Prime",1391313600,826,0
+458,"Permutations of Project",1391929200,962,0
+459,"Flipping Game",1392544800,245,0
+460,"An Ant on the Move",1393074000,338,0
+461,"Almost Pi",1393689600,1261,0
+462,"Permutation of 3-smooth Numbers",1394305200,333,0
+463,"A Weird Recurrence Relation",1394920800,1141,0
+464,"Möbius Function and Intervals",1395536400,338,0
+465,"Polar Polygons",1396152000,229,0
+466,"Distinct Terms in a Multiplication Table",1396764000,331,0
+467,"Superinteger",1397379600,453,0
+468,"Smooth Divisors of Binomial Coefficients",1397908800,283,0
+469,"Empty Chairs",1398524400,780,0
+470,"Super Ramvok",1399140000,241,0
+471,"Triangle Inscribed in Ellipse",1399755600,230,0
+472,"Comfortable Distance II",1400371200,269,0
+473,"Phigital Number Base",1400986800,758,0
+474,"Last Digits of Divisors",1401602400,430,0
+475,"Music Festival",1402218000,463,0
+476,"Circle Packing II",1402747200,432,0
+477,"Number Sequence Game",1408806000,272,0
+478,"Mixtures",1409421600,194,0
+479,"Roots on the Rise",1410037200,1342,0
+480,"The Last Question",1410652800,597,0
+481,"Chef Showdown",1411268400,252,0
+482,"The Incenter of a Triangle",1411884000,225,0
+483,"Repeated Permutation",1412499600,253,0
+484,"Arithmetic Derivative",1413028800,385,0
+485,"Maximum Number of Divisors",1413644400,1208,0
+486,"Palindrome-containing Strings",1414260000,271,0
+487,"Sums of Power Sums",1414879200,675,0
+488,"Unbalanced Nim",1415494800,244,0
+489,"Common Factors Between Two Sequences",1416110400,254,0
+490,"Jumping Frog",1416726000,311,0
+491,"Double Pandigital Number Divisible by $11$",1417341600,2240,0
+492,"Exploding Sequence",1417870800,369,0
+493,"Under the Rainbow",1418486400,5552,0
+494,"Collatz Prefix Families",1419102000,221,0
+495,"Writing $n$ as the Product of $k$ Distinct Positive Integers",1419717600,303,0
+496,"Incenter and Circumcenter of Triangle",1420333200,319,0
+497,"Drunken Tower of Hanoi",1420948800,569,0
+498,"Remainder of Polynomial Division",1421564400,539,0
+499,"St. Petersburg Lottery",1422180000,343,0
+500,"Problem 500!!!",1422709200,4197,0
+501,"Eight Divisors",1422709200,1430,0
+502,"Counting Castles",1423324800,301,0
+503,"Compromise or Persist",1423940400,334,0
+504,"Square on the Inside",1424556000,3193,0
+505,"Bidirectional Recurrence",1425171600,215,0
+506,"Clock Sequence",1425787200,905,0
+507,"Shortest Lattice Vector",1426402800,226,0
+508,"Integers in Base $i-1$",1427018400,241,0
+509,"Divisor Nim",1427547600,594,0
+510,"Tangent Circles",1428159600,1054,0
+511,"Sequences with Nice Divisibility Properties",1428775200,428,0
+512,"Sums of Totients of Powers",1429390800,1562,0
+513,"Integral Median",1430006400,318,0
+514,"Geoboard Shapes",1430622000,222,0
+515,"Dissonant Numbers",1431237600,478,0
+516,"$5$-smooth Totients",1431853200,1617,0
+517,"A Real Recursion",1432382400,471,0
+518,"Prime Triples and Geometric Sequences",1432998000,1667,0
+519,"Tricoloured Coin Fountains",1433613600,351,0
+520,"Simbers",1434229200,423,0
+521,"Smallest Prime Factor",1434844800,776,0
+522,"Hilbert's Blackout",1435460400,277,0
+523,"First Sort I",1441519200,1029,0
+524,"First Sort II",1441519200,230,0
+525,"Rolling Ellipse",1442134800,520,0
+526,"Largest Prime Factors of Consecutive Numbers",1442664000,325,0
+527,"Randomized Binary Search",1443279600,763,0
+528,"Constrained Sums",1443895200,284,0
+529,"$10$-substrings",1444510800,257,0
+530,"GCD of Divisors",1445126400,468,0
+531,"Chinese Leftovers",1445745600,1184,0
+532,"Nanobots on Geodesics",1446361200,318,0
+533,"Minimum Values of the Carmichael Function",1446976800,343,0
+534,"Weak Queens",1447506000,316,0
+535,"Fractal Sequence",1448121600,300,0
+536,"Modulo Power Identity ",1448737200,301,0
+537,"Counting Tuples",1449352800,647,0
+538,"Maximum Quadrilaterals",1449968400,338,0
+539,"Odd Elimination",1450584000,855,0
+540,"Counting Primitive Pythagorean Triples",1451199600,675,0
+541,"Divisibility of Harmonic Number Denominators",1451815200,219,0
+542,"Geometric Progression with Maximum Sum",1452344400,233,0
+543,"Prime-Sum Numbers",1452960000,716,0
+544,"Chromatic Conundrum",1453575600,260,0
+545,"Faulhaber's Formulas",1454191200,552,0
+546,"The Floor's Revenge",1454806800,242,0
+547,"Distance of Random Points Within Hollow Square Laminae",1455422400,236,0
+548,"Gozinta Chains",1456038000,636,0
+549,"Divisibility of Factorials",1456653600,2831,0
+550,"Divisor Game",1457182800,367,0
+551,"Sum of Digits Sequence",1457798400,487,0
+552,"Chinese Leftovers II",1458414000,453,0
+553,"Power Sets of Power Sets",1459029600,220,0
+554,"Centaurs on a Chess Board",1459641600,249,0
+555,"McCarthy 91 Function",1460257200,720,0
+556,"Squarefree Gaussian Integers",1460872800,259,0
+557,"Cutting Triangles",1461488400,297,0
+558,"Irrational Base",1462017600,259,0
+559,"Permuted Matrices",1462633200,195,0
+560,"Coprime Nim",1463248800,328,0
+561,"Divisor Pairs",1463864400,791,0
+562,"Maximal Perimeter",1464480000,197,0
+563,"Robot Welders",1465095600,340,0
+564,"Maximal Polygons",1465711200,245,0
+565,"Divisibility of Sum of Divisors",1466326800,641,0
+566,"Cake Icing Puzzle",1466856000,182,0
+567,"Reciprocal Games I",1472914800,307,0
+568,"Reciprocal Games II",1472914800,299,0
+569,"Prime Mountain Range",1473530400,408,0
+570,"Snowflakes",1474146000,283,0
+571,"Super Pandigital Numbers",1474761600,1142,0
+572,"Idempotent Matrices",1475377200,350,0
+573,"Unfair Race",1475992800,215,0
+574,"Verifying Primes",1476608400,273,0
+575,"Wandering Robots",1477137600,608,0
+576,"Irrational Jumps",1477753200,244,0
+577,"Counting Hexagons",1478977200,1633,0
+578,"Integers with Decreasing Prime Powers",1479592800,241,0
+579,"Lattice Points in Lattice Cubes",1480208400,170,0
+580,"Squarefree Hilbert Numbers",1480824000,261,0
+581,"$47$-smooth Triangular Numbers",1481439600,892,0
+582,"Nearly Isosceles $120$ Degree Triangles",1482055200,335,0
+583,"Heron Envelopes",1482584400,377,0
+584,"Birthday Problem Revisited",1483200000,213,0
+585,"Nested Square Roots",1483815600,178,0
+586,"Binary Quadratic Form",1484431200,242,0
+587,"Concave Triangle",1485046800,3245,0
+588,"Quintinomial Coefficients",1485662400,454,0
+589,"Poohsticks Marathon",1486278000,207,0
+590,"Sets with a Given Least Common Multiple",1486893600,264,0
+591,"Best Approximations by Quadratic Integers",1487422800,199,0
+592,"Factorial Trailing Digits 2",1488038400,293,0
+593,"Fleeting Medians",1488654000,554,0
+594,"Rhombus Tilings",1489269600,191,0
+595,"Incremental Random Sort",1489885200,648,0
+596,"Number of Lattice Points in a Hyperball",1490497200,369,0
+597,"Torpids",1491112800,177,0
+598,"Split Divisibilities",1491728400,502,0
+599,"Distinct Colourings of a Rubik's Cube",1492257600,317,0
+600,"Integer Sided Equiangular Hexagons",1492873200,629,0
+601,"Divisibility Streaks",1493488800,2112,0
+602,"Product of Head Counts",1494104400,513,0
+603,"Substring Sums of Prime Concatenations",1494720000,440,0
+604,"Convex Path in Square",1495335600,519,0
+605,"Pairwise Coin-Tossing Game",1495951200,874,0
+606,"Gozinta Chains II",1496566800,390,0
+607,"Marsh Crossing",1497096000,1759,0
+608,"Divisor Sums",1497711600,312,0
+609,"$\pi$ Sequences",1504969200,963,0
+610,"Roman Numerals II",1506189600,591,0
+611,"Hallway of Square Steps",1507410000,347,0
+612,"Friend Numbers",1508630400,698,0
+613,"Pythagorean Ant",1509854400,1848,0
+614,"Special Partitions 2",1511074800,318,0
+615,"The Millionth Number with at Least One Million Prime Factors",1512295200,604,0
+616,"Creative Numbers",1513429200,494,0
+617,"Mirror Power Sequence",1514649600,387,0
+618,"Numbers with a Given Prime Factor Sum",1515870000,1067,0
+619,"Square Subsets",1517090400,408,0
+620,"Planetary Gears",1518310800,177,0
+621,"Expressing an Integer as the Sum of Triangular Numbers",1519531200,574,0
+622,"Riffle Shuffles",1520751600,1787,0
+623,"Lambda Count",1521968400,324,0
+624,"Two Heads Are Better Than One",1523102400,651,0
+625,"Gcd Sum",1524322800,629,0
+626,"Counting Binary Matrices",1525543200,230,0
+627,"Counting Products",1526763600,244,0
+628,"Open Chess Positions",1527984000,813,0
+629,"Scatterstone Nim",1529204400,249,0
+630,"Crossed Lines",1530424800,1041,0
+631,"Constrained Permutations",1531645200,194,0
+632,"Square Prime Factors",1532779200,491,0
+633,"Square Prime Factors II",1532779200,327,0
+634,"Numbers of the Form $a^2b^3$",1533999600,633,0
+635,"Subset Sums",1535220000,355,0
+636,"Restricted Factorisations",1536440400,197,0
+637,"Flexible Digit Sum",1537660800,328,0
+638,"Weighted Lattice Paths",1538881200,385,0
+639,"Summing a Multiplicative Function",1540101600,270,0
+640,"Shut the Box",1540720800,369,0
+641,"A Long Row of Dice",1541250000,501,0
+642,"Sum of Largest Prime Factors",1541865600,368,0
+643,"$2$-Friendly",1542481200,619,0
+644,"Squares on the Line",1543096800,164,0
+645,"Every Day Is a Holiday",1543712400,221,0
+646,"Bounded Divisors",1544328000,287,0
+647,"Linear Transformations of Polygonal Numbers",1544943600,450,0
+648,"Skipping Squares",1545559200,295,0
+649,"Low-Prime Chessboard Nim",1546088400,419,0
+650,"Divisors of Binomial Product",1546704000,1688,0
+651,"Patterned Cylinders",1547319600,177,0
+652,"Distinct Values of a Proto-logarithmic Function",1547935200,174,0
+653,"Frictionless Tube",1548550800,320,0
+654,"Neighbourly Constraints",1549166400,352,0
+655,"Divisible Palindromes",1549782000,539,0
+656,"Palindromic Sequences",1550397600,245,0
+657,"Incomplete Words",1550926800,552,0
+658,"Incomplete Words II",1550926800,248,0
+659,"Largest Prime",1551542400,962,0
+660,"Pandigital Triangles",1552158000,308,0
+661,"A Long Chess Match",1552773600,230,0
+662,"Fibonacci Paths",1553389200,815,0
+663,"Sums of Subarrays",1554001200,363,0
+664,"An Infinite Game",1554616800,197,0
+665,"Proportionate Nim",1555232400,259,0
+666,"Polymorphic Bacteria",1555761600,292,0
+667,"Moving Pentagon",1556377200,205,0
+668,"Square Root Smooth Numbers",1556992800,1067,0
+669,"The King's Banquet",1557608400,324,0
+670,"Colouring a Strip",1558224000,345,0
+671,"Colouring a Loop",1558224000,174,0
+672,"One More One",1558839600,277,0
+673,"Beds and Desks",1559455200,322,0
+674,"Solving $\mathcal{I}$-equations",1560070800,174,0
+675,"$2^{\omega(n)}$",1560600000,754,0
+676,"Matching Digit Sums",1561215600,238,0
+677,"Coloured Graphs",1561831200,179,0
+678,"Fermat-like Equations",1567890000,242,0
+679,"Freefarea",1568505600,879,0
+680,"Yarra Gnisrever",1569121200,192,0
+681,"Maximal Area",1569736800,234,0
+682,"$5$-Smooth Pairs",1570352400,275,0
+683,"The Chase II",1570881600,333,0
+684,"Inverse Digit Sum",1571497200,2701,0
+685,"Inverse Digit Sum II",1571497200,204,0
+686,"Powers of Two",1572112800,3469,0
+687,"Shuffling Cards",1572732000,312,0
+688,"Piles of Plates",1573347600,762,0
+689,"Binary Series",1573963200,237,0
+690,"Tom and Jerry",1574578800,212,0
+691,"Long Substring with Many Repetitions",1575194400,274,0
+692,"Siegbert and Jo",1575723600,1326,0
+693,"Finite Sequence Generator",1576339200,295,0
+694,"Cube-full Divisors",1576954800,997,0
+695,"Random Rectangles",1577570400,212,0
+696,"Mahjong",1578186000,175,0
+697,"Randomly Decaying Sequence",1578801600,575,0
+698,"123 Numbers",1579417200,445,0
+699,"Triffle Numbers",1580032800,188,0
+700,"Eulercoin",1580562000,3328,0
+701,"Random Connected Area",1581177600,350,0
+702,"Jumping Flea",1581793200,157,0
+703,"Circular Logic II",1582408800,310,0
+704,"Factors of Two in Binomial Coefficients",1583024400,916,0
+705,"Total Inversion Count of Divided Sequences",1583640000,434,0
+706,"$3$-Like Numbers",1584255600,559,0
+707,"Lights Out",1584871200,231,0
+708,"Twos Are All You Need",1585400400,312,0
+709,"Even Stevens",1586016000,848,0
+710,"One Million Members",1586631600,1220,0
+711,"Binary Blackboard",1586631600,324,0
+712,"Exponent Difference",1587247200,490,0
+713,"Turán's Water Heating System",1587862800,707,0
+714,"Duodigits",1588478400,716,0
+715,"Sextuplet Norms",1589094000,192,0
+716,"Grid Graphs",1589709600,232,0
+717,"Summation of a Modular Formula",1590238800,485,0
+718,"Unreachable Numbers",1590854400,330,0
+719,"Number Splitting",1591470000,3637,0
+720,"Unpredictable Permutations",1592085600,301,0
+721,"High Powers of Irrational Numbers",1592701200,414,0
+722,"Slowly Converging Series",1593316800,504,0
+723,"Pythagorean Quadrilaterals",1593932400,183,0
+724,"Drone Delivery",1599310800,389,0
+725,"Digit Sum Numbers",1599926400,1040,0
+726,"Falling Bottles",1600542000,195,0
+727,"Triangle of Circular Arcs",1601157600,502,0
+728,"Circle of Coins",1601773200,274,0
+729,"Range of Periodic Sequence",1602388800,169,0
+730,"Shifted Pythagorean Triples",1603004400,183,0
+731,"A Stoneham Number",1603620000,541,0
+732,"Standing on the Shoulders of Trolls",1604149200,211,0
+733,"Ascending Subsequences",1604764800,455,0
+734,"A Bit of Prime",1605380400,315,0
+735,"Divisors of $2n^2$",1605996000,208,0
+736,"Paths to Equality",1606611600,229,0
+737,"Coin Loops",1607227200,354,0
+738,"Counting Ordered Factorisations",1607842800,270,0
+739,"Summation of Summations",1608458400,491,0
+740,"Secret Santa",1608987600,202,0
+741,"Binary Grid Colouring",1609603200,154,0
+742,"Minimum Area of a Convex Grid Polygon",1610218800,161,0
+743,"Window into a Matrix",1610834400,1113,0
+744,"What? Where? When?",1611450000,295,0
+745,"Sum of Squares II",1612065600,1096,0
+746,"A Messy Dinner",1612681200,271,0
+747,"Triangular Pizza",1613296800,193,0
+748,"Upside Down Diophantine Equation",1613826000,300,0
+749,"Near Power Sums",1614441600,673,0
+750,"Optimal Card Stacking",1615057200,310,0
+751,"Concatenation Coincidence",1615672800,2153,0
+752,"Powers of $1+\sqrt 7$",1616288400,617,0
+753,"Fermat Equation",1616904000,389,0
+754,"Product of Gauss Factorials",1617519600,669,0
+755,"Not Zeckendorf",1618740000,833,0
+756,"Approximating a Sum",1619874000,327,0
+757,"Stealthy Numbers",1621094400,1130,0
+758,"Buckets of Water",1622314800,221,0
+759,"A Squared Recurrence Relation",1623535200,522,0
+760,"Sum over Bitwise Operators",1624755600,403,0
+761,"Runner and Swimmer",1625976000,150,0
+762,"Amoebas in a 2D Grid",1630760400,199,0
+763,"Amoebas in a 3D Grid",1630760400,94,0
+764,"Asymmetric Diophantine Equation",1631376000,350,0
+765,"Trillionaire",1631991600,215,0
+766,"Sliding Block Puzzle",1633212000,308,0
+767,"Window into a Matrix II",1633827600,172,0
+768,"Chandelier",1634443200,157,0
+769,"Binary Quadratic Form II",1635055200,138,0
+770,"Delphi Flip",1635674400,490,0
+771,"Pseudo Geometric Sequences",1636203600,129,0
+772,"Balanceable $k$-bounded Partitions",1636819200,469,0
+773,"Ruff Numbers",1637434800,195,0
+774,"Conjunctive Sequences",1638050400,131,0
+775,"Saving Paper",1638666000,239,0
+776,"Digit Sum Division",1639281600,511,0
+777,"Lissajous Curves",1639897200,123,0
+778,"Freshman's Product",1640512800,377,0
+779,"Prime Factor and Exponent",1641042000,455,0
+780,"Toriangulations",1641657600,91,0
+781,"Feynman Diagrams",1642273200,120,0
+782,"Distinct Rows and Columns",1642888800,150,0
+783,"Urns",1643504400,193,0
+784,"Reciprocal Pairs",1644120000,377,0
+785,"Symmetric Diophantine Equation",1644735600,190,0
+786,"Billiard",1645351200,114,0
+787,"Bézout's Game",1645880400,193,0
+788,"Dominating Numbers",1646496000,1043,0
+789,"Minimal Pairing Modulo $p$",1647111600,187,0
+790,"Clock Grid",1647727200,250,0
+791,"Average and Variance",1648342800,155,0
+792,"Too Many Twos",1648958400,121,0
+793,"Median of Products",1649574000,615,0
+794,"Seventeen Points",1650189600,300,0
+795,"Alternating GCD Sum",1650718800,328,0
+796,"A Grand Shuffle",1651334400,190,0
+797,"Cyclogenic Polynomials",1651950000,187,0
+798,"Card Stacking Game",1652565600,110,0
+799,"Pentagonal Puzzle",1653181200,222,0
+800,"Hybrid Integers",1653796800,1614,0
+801,"$x^y \equiv y^x$",1654412400,247,0
+802,"Iterated Composition",1655028000,235,0
+803,"Pseudorandom Sequence",1655557200,208,0
+804,"Counting Binary Quadratic Representations",1656172800,613,0
+805,"Shifted Multiples",1656788400,183,0
+806,"Nim on Towers of Hanoi",1657404000,111,0
+807,"Loops of Ropes",1662858000,121,0
+808,"Reversible Prime Squares",1663473600,2096,0
+809,"Rational Recurrence Relation ",1664089200,280,0
+810,"XOR-Primes",1664704800,640,0
+811,"Bitwise Recursion",1665234000,217,0
+812,"Dynamical Polynomials",1665849600,115,0
+813,"XOR-Powers",1666465200,491,0
+814,"Mezzo-forte",1667080800,205,0
+815,"Group by Value",1667696400,374,0
+816,"Shortest Distance Among Points",1668312000,1634,0
+817,"Digits in Squares",1668927600,419,0
+818,"SET",1669543200,123,0
+819,"Iterative Sampling",1670072400,210,0
+820,"$N$<sup>th</sup> Digit of Reciprocals",1670688000,777,0
+821,"123-Separable",1671303600,143,0
+822,"Square the Smallest",1671919200,672,0
+823,"Factor Shuffle",1672534800,177,0
+824,"Chess Sliders",1673150400,105,0
+825,"Chasing Game",1673766000,142,0
+826,"Birds on a Wire",1674381600,221,0
+827,"Pythagorean Triple Occurrence",1674910800,177,0
+828,"Numbers Challenge",1675526400,552,0
+829,"Integral Fusion",1676142000,198,0
+830,"Binomials and Powers",1676757600,133,0
+831,"Triple Product",1677373200,175,0
+832,"Mex Sequence",1677988800,272,0
+833,"Square Triangle Products",1678604400,160,0
+834,"Add and Divide",1679220000,348,0
+835,"Supernatural Triangles",1679749200,320,0
+836,"A Bold Proposition",1680364800,2221,0
+837,"Amidakuji",1680364800,194,0
+838,"Not Coprime",1680980400,510,0
+839,"Beans in Bowls",1681596000,325,0
+840,"Sum of Products",1682211600,323,0
+841,"Regular Star Polygons",1682827200,173,0
+842,"Irregular Star Polygons",1683442800,121,0
+843,"Periodic Circles",1684058400,119,0
+844,"$k$-Markov Numbers",1684587600,191,0
+845,"Prime Digit Sum",1685203200,570,0
+846,"Magic Bracelets",1685818800,184,0
+847,"Jack's Bean",1686434400,107,0
+848,"Guessing with Sets",1687050000,178,0
+849,"The Tournament",1687665600,224,0
+850,"Fractions of Powers",1688281200,104,0
+851,"SOP and POS",1688896800,110,0
+852,"Coins in a Box",1693659600,182,0
+853,"Pisano Periods 1",1694275200,567,0
+854,"Pisano Periods 2",1694275200,245,0
+855,"Delphi Paper",1694890800,120,0
+856,"Waiting for a Pair",1695506400,373,0
+857,"Beautiful Graphs",1696122000,118,0
+858,"LCM",1696737600,152,0
+859,"Cookie Game",1697353200,155,0
+860,"Gold and Silver Coin Game",1697968800,261,0
+861,"Products of Bi-Unitary Divisors",1698498000,151,0
+862,"Larger Digit Permutation",1699113600,321,0
+863,"Different Dice",1699729200,144,0
+864,"Square + 1 = Squarefree",1700344800,84,0
+865,"Triplicate Numbers",1700960400,116,0
