@@ -1,4 +1,5 @@
 """generate README.md file"""
+
 import csv
 
 # download from https://projecteuler.net/minimal=problems;csv
@@ -6,17 +7,26 @@ CSV_PATH = "pe_minimal_problems.csv"
 
 README_PATH = "README.md"
 
+SOVLE_COL_TEXT = "Solve Status"
+
 
 def parse_csv_file(arg_filename):
     """parse problems from csv file"""
+
+    idx_solve_status = 0
+
     ret = []
     with open(arg_filename, newline="", encoding="utf-8") as csv_file:
-        spamreader = csv.reader(csv_file, delimiter=",", quotechar="|")
+        spamreader = csv.reader(csv_file, delimiter=",", quotechar="|", escapechar="\\")
         for i, row in enumerate(spamreader):
+            if i == 0:
+                for col in row:
+                    if SOVLE_COL_TEXT in col:
+                        idx_solve_status = row.index(col)
             if i > 0:
                 cnt = row[0]
                 name = row[1].replace('"', "")
-                is_solved = row[4] == "1"
+                is_solved = row[idx_solve_status] == "1"
                 ret.append({"cnt": cnt, "name": name, "isSolved": is_solved})
     return ret
 
