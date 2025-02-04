@@ -34,16 +34,16 @@ def parse_csv_file(arg_filename):
 def get_progress_bar_str(arg_percent):
     """return progress bar string"""
 
-    BAR_CHARS = 50
+    bar_chars = 50
 
     # min max to 0 100
     arg_percent = max(0, arg_percent)
     arg_percent = min(100, arg_percent)
 
-    loads_chars = arg_percent * BAR_CHARS / 100
+    loads_chars = arg_percent * bar_chars / 100
     loads_chars = int(round(loads_chars, 0))
 
-    return loads_chars * "█" + (BAR_CHARS - loads_chars) * "░" + "\n"
+    return loads_chars * "█" + (bar_chars - loads_chars) * "░" + "\n"
 
 
 def generate_readme(arg_filename):
