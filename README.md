@@ -5,10 +5,10 @@ This repository contains my solutions for [projecteuler.net](https://projecteule
 
 ## My Progress
 
-I sloved `34` out of `930` problems!  
+I sloved `35` out of `930` problems!  
 
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-3.7%
+3.8%
 
 ## Progress Overview
 Nr | Name | Solved
@@ -51,7 +51,7 @@ Nr | Name | Solved
 36 | [Double-base Palindromes](https://projecteuler.net/problem=36) | [x]
 37 | [Truncatable Primes](https://projecteuler.net/problem=37) | [x]
 38 | [Pandigital Multiples](https://projecteuler.net/problem=38) | [ ]
-39 | [Integer Right Triangles](https://projecteuler.net/problem=39) | [ ]
+39 | [Integer Right Triangles](https://projecteuler.net/problem=39) | [x]
 40 | [Champernowne's Constant](https://projecteuler.net/problem=40) | [x]
 41 | [Pandigital Prime](https://projecteuler.net/problem=41) | [ ]
 42 | [Coded Triangle Numbers](https://projecteuler.net/problem=42) | [ ]
