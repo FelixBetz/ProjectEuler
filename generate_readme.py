@@ -31,6 +31,21 @@ def parse_csv_file(arg_filename):
     return ret
 
 
+def get_progress_bar_str(arg_percent):
+    """return progress bar string"""
+
+    BAR_CHARS = 50
+
+    # min max to 0 100
+    arg_percent = max(0, arg_percent)
+    arg_percent = min(100, arg_percent)
+
+    loads_chars = arg_percent * BAR_CHARS / 100
+    loads_chars = int(round(loads_chars, 0))
+
+    return loads_chars * "█" + (BAR_CHARS - loads_chars) * "░" + "\n"
+
+
 def generate_readme(arg_filename):
     """generate README file"""
 
@@ -64,11 +79,7 @@ def generate_readme(arg_filename):
     )
     lines.append("")
     lines.append(
-        "!["
-        + str(round(solved_percentage, 1))
-        + "%](https://progress-bar.dev/"
-        + str(round(solved_percentage))
-        + "?width=500)"
+        get_progress_bar_str(solved_percentage) + str(round(solved_percentage, 1)) + "%"
     )
     lines.append("")
     lines.append("## Progress Overview")
