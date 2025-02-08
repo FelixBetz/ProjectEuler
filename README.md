@@ -5,10 +5,10 @@ This repository contains my solutions for [projecteuler.net](https://projecteule
 
 ## My Progress
 
-I sloved `40` out of `931` problems!  
+I sloved `41` out of `931` problems!  
 
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-4.3%
+4.4%
 
 ## Progress Overview
 Nr | Name | Solved
@@ -53,7 +53,7 @@ Nr | Name | Solved
 38 | [Pandigital Multiples](https://projecteuler.net/problem=38) | [x]
 39 | [Integer Right Triangles](https://projecteuler.net/problem=39) | [x]
 40 | [Champernowne's Constant](https://projecteuler.net/problem=40) | [x]
-41 | [Pandigital Prime](https://projecteuler.net/problem=41) | [ ]
+41 | [Pandigital Prime](https://projecteuler.net/problem=41) | [x]
 42 | [Coded Triangle Numbers](https://projecteuler.net/problem=42) | [ ]
 43 | [Sub-string Divisibility](https://projecteuler.net/problem=43) | [ ]
 44 | [Pentagon Numbers](https://projecteuler.net/problem=44) | [ ]
