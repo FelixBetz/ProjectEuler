@@ -5,10 +5,10 @@ This repository contains my solutions for [projecteuler.net](https://projecteule
 
 ## My Progress
 
-I sloved `38` out of `931` problems!  
+I sloved `39` out of `931` problems!  
 
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-4.1%
+4.2%
 
 ## Progress Overview
 Nr | Name | Solved
@@ -44,7 +44,7 @@ Nr | Name | Solved
 29 | [Distinct Powers](https://projecteuler.net/problem=29) | [x]
 30 | [Digit Fifth Powers](https://projecteuler.net/problem=30) | [x]
 31 | [Coin Sums](https://projecteuler.net/problem=31) | [x]
-32 | [Pandigital Products](https://projecteuler.net/problem=32) | [ ]
+32 | [Pandigital Products](https://projecteuler.net/problem=32) | [x]
 33 | [Digit Cancelling Fractions](https://projecteuler.net/problem=33) | [ ]
 34 | [Digit Factorials](https://projecteuler.net/problem=34) | [x]
 35 | [Circular Primes](https://projecteuler.net/problem=35) | [x]
