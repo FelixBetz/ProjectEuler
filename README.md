@@ -5,10 +5,10 @@ This repository contains my solutions for [projecteuler.net](https://projecteule
 
 ## My Progress
 
-I sloved `36` out of `930` problems!  
+I sloved `37` out of `931` problems!  
 
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-3.9%
+4.0%
 
 ## Progress Overview
 Nr | Name | Solved
@@ -23,7 +23,7 @@ Nr | Name | Solved
 8 | [Largest Product in a Series](https://projecteuler.net/problem=8) | [x]
 9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9) | [x]
 10 | [Summation of Primes](https://projecteuler.net/problem=10) | [x]
-11 | [Largest Product in a Grid](https://projecteuler.net/problem=11) | [ ]
+11 | [Largest Product in a Grid](https://projecteuler.net/problem=11) | [x]
 12 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12) | [x]
 13 | [Large Sum](https://projecteuler.net/problem=13) | [x]
 14 | [Longest Collatz Sequence](https://projecteuler.net/problem=14) | [x]
@@ -943,3 +943,4 @@ Nr | Name | Solved
 928 | [Cribbage](https://projecteuler.net/problem=928) | [ ]
 929 | [Odd-Run Compositions](https://projecteuler.net/problem=929) | [ ]
 930 | [The Gathering](https://projecteuler.net/problem=930) | [ ]
+931 | [Totient Graph](https://projecteuler.net/problem=931) | [ ]
