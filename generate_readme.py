@@ -1,107 +1,63 @@
-"""generate README.md file"""
+import pandas as pd
 
-import csv
-
-# download from https://projecteuler.net/minimal=problems;csv
-CSV_PATH = "pe_minimal_problems.csv"
-
+# download from https://projecteuler.net/minimal=problems
+CSV_PATH = "problems.txt"
 README_PATH = "README.md"
 
-SOVLE_COL_TEXT = "Solve Status"
 
-
-def parse_csv_file(arg_filename):
-    """parse problems from csv file"""
-
-    idx_solve_status = 0
-
-    ret = []
-    with open(arg_filename, newline="", encoding="utf-8") as csv_file:
-        spamreader = csv.reader(csv_file, delimiter=",", quotechar="|", escapechar="\\")
-        for i, row in enumerate(spamreader):
-            if i == 0:
-                for col in row:
-                    if SOVLE_COL_TEXT in col:
-                        idx_solve_status = row.index(col)
-            if i > 0:
-                cnt = row[0]
-                name = row[1].replace('"', "")
-                is_solved = row[idx_solve_status] == "1"
-                ret.append({"cnt": cnt, "name": name, "isSolved": is_solved})
-    return ret
+IDX_SOLVE_STATUS = "Solve Status"
+IDX_PROBLEM_ID = "ID"
+IDX_TITLE = "Title"
 
 
 def get_progress_bar_str(arg_percent):
-    """return progress bar string"""
+    """Return progress bar string"""
 
     bar_chars = 50
+    arg_percent = max(0, min(100, arg_percent))
 
-    # min max to 0 100
-    arg_percent = max(0, arg_percent)
-    arg_percent = min(100, arg_percent)
+    loads_chars = int(round(arg_percent * bar_chars / 100, 0))
 
-    loads_chars = arg_percent * bar_chars / 100
-    loads_chars = int(round(loads_chars, 0))
-
-    return loads_chars * "█" + (bar_chars - loads_chars) * "░" + "\n"
+    return "█" * loads_chars + "░" * (bar_chars - loads_chars) + "\n"
 
 
 def generate_readme(arg_filename):
-    """generate README file"""
+    """Generate README file"""
 
-    problems = parse_csv_file(CSV_PATH)
-    num_solved_problems = len(
-        list(filter(lambda problem: problem["isSolved"], problems))
-    )
+    problems = pd.read_csv(CSV_PATH, sep="##", engine="python")
+
+    num_solved_problems = problems[IDX_SOLVE_STATUS].sum()
     solved_percentage = 100 * num_solved_problems / len(problems)
-    lines = []
 
-    lines.append("# Project Euler solutions")
-    lines.append(
+    lines = [
+        "# Project Euler solutions",
         "This repository contains my solutions for "
-        + "[projecteuler.net](https://projecteuler.net)."
-    )
-    lines.append("## What is Project Euler")
-    lines.append(
+        "[projecteuler.net](https://projecteuler.net).",
+        "## What is Project Euler",
         '> "Project Euler exists to encourage, challenge,'
-        + " and develop the skills and enjoyment of anyone with an interest"
-        + ' in the fascinating world of mathematics."'
-    )
-    lines.append("")
-    lines.append("## My Progress")
-    lines.append("")
-    lines.append(
-        "I sloved `"
-        + str(num_solved_problems)
-        + "` out of `"
-        + str(len(problems))
-        + "` problems!  "
-    )
-    lines.append("")
-    lines.append(
-        get_progress_bar_str(solved_percentage) + str(round(solved_percentage, 1)) + "%"
-    )
-    lines.append("")
-    lines.append("## Progress Overview")
-    lines.append("Nr | Name | Solved")
-    lines.append("--- | --- | ---")
+        " and develop the skills and enjoyment of anyone with an interest"
+        ' in the fascinating world of mathematics."',
+        "",
+        "## My Progress",
+        "",
+        f"I solved `{num_solved_problems}` out of `{len(problems)}` problems!  ",
+        "",
+        get_progress_bar_str(solved_percentage) + f"{round(solved_percentage, 1)}%",
+        "",
+        "## Progress Overview",
+        "Nr | Name | Solved",
+        "--- | --- | ---",
+    ]
 
-    for problem in problems:
-        if problem["isSolved"]:
-            is_solved = "[x]"
-        else:
-            is_solved = "[ ]"
-        cnt = problem["cnt"]
-        name = problem["name"]
-        str_name = "[" + name + "](https://projecteuler.net/problem=" + cnt + ")"
-
-        lines.append(cnt + " | " + str_name + " | " + is_solved)
-
-    for i, _ in enumerate(lines):
-        lines[i] += "\n"
+    for _, problem in problems.iterrows():
+        is_solved = "[x]" if problem[IDX_SOLVE_STATUS] == 1 else "[ ]"
+        cnt = problem[IDX_PROBLEM_ID]
+        name = problem[IDX_TITLE]
+        str_name = f"[{name}](https://projecteuler.net/problem={cnt})"
+        lines.append(f"{cnt} | {str_name} | {is_solved}")
 
     with open(arg_filename, "w+", encoding="utf-8") as file:
-        file.writelines(lines)
+        file.writelines([line + "\n" for line in lines])
 
 
 generate_readme(README_PATH)
