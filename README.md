@@ -5,10 +5,10 @@ This repository contains my solutions for [projecteuler.net](https://projecteule
 
 ## My Progress
 
-I sloved `43` out of `931` problems!  
+I sloved `44` out of `932` problems!  
 
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-4.6%
+4.7%
 
 ## Progress Overview
 Nr | Name | Solved
@@ -56,7 +56,7 @@ Nr | Name | Solved
 41 | [Pandigital Prime](https://projecteuler.net/problem=41) | [x]
 42 | [Coded Triangle Numbers](https://projecteuler.net/problem=42) | [x]
 43 | [Sub-string Divisibility](https://projecteuler.net/problem=43) | [x]
-44 | [Pentagon Numbers](https://projecteuler.net/problem=44) | [ ]
+44 | [Pentagon Numbers](https://projecteuler.net/problem=44) | [x]
 45 | [Triangular](https://projecteuler.net/problem=45) | [ ]
 46 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46) | [ ]
 47 | [Distinct Primes Factors](https://projecteuler.net/problem=47) | [ ]
@@ -944,3 +944,4 @@ Nr | Name | Solved
 929 | [Odd-Run Compositions](https://projecteuler.net/problem=929) | [ ]
 930 | [The Gathering](https://projecteuler.net/problem=930) | [ ]
 931 | [Totient Graph](https://projecteuler.net/problem=931) | [ ]
+932 | [$2025$](https://projecteuler.net/problem=932) | [ ]
