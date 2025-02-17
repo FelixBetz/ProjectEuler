@@ -5,10 +5,10 @@ This repository contains my solutions for [projecteuler.net](https://projecteule
 
 ## My Progress
 
-I sloved `44` out of `932` problems!  
+I solved `45` out of `932` problems!  
 
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-4.7%
+4.8%
 
 ## Progress Overview
 Nr | Name | Solved
@@ -19,7 +19,7 @@ Nr | Name | Solved
 4 | [Largest Palindrome Product](https://projecteuler.net/problem=4) | [x]
 5 | [Smallest Multiple](https://projecteuler.net/problem=5) | [x]
 6 | [Sum Square Difference](https://projecteuler.net/problem=6) | [x]
-7 | [$10,001$st Prime](https://projecteuler.net/problem=7) | [x]
+7 | [$10\,001$st Prime](https://projecteuler.net/problem=7) | [x]
 8 | [Largest Product in a Series](https://projecteuler.net/problem=8) | [x]
 9 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9) | [x]
 10 | [Summation of Primes](https://projecteuler.net/problem=10) | [x]
@@ -57,7 +57,7 @@ Nr | Name | Solved
 42 | [Coded Triangle Numbers](https://projecteuler.net/problem=42) | [x]
 43 | [Sub-string Divisibility](https://projecteuler.net/problem=43) | [x]
 44 | [Pentagon Numbers](https://projecteuler.net/problem=44) | [x]
-45 | [Triangular](https://projecteuler.net/problem=45) | [ ]
+45 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | [x]
 46 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46) | [ ]
 47 | [Distinct Primes Factors](https://projecteuler.net/problem=47) | [ ]
 48 | [Self Powers](https://projecteuler.net/problem=48) | [ ]
@@ -128,8 +128,8 @@ Nr | Name | Solved
 113 | [Non-bouncy Numbers](https://projecteuler.net/problem=113) | [ ]
 114 | [Counting Block Combinations I](https://projecteuler.net/problem=114) | [ ]
 115 | [Counting Block Combinations II](https://projecteuler.net/problem=115) | [ ]
-116 | [Red](https://projecteuler.net/problem=116) | [ ]
-117 | [Red](https://projecteuler.net/problem=117) | [ ]
+116 | [Red, Green or Blue Tiles](https://projecteuler.net/problem=116) | [ ]
+117 | [Red, Green, and Blue Tiles](https://projecteuler.net/problem=117) | [ ]
 118 | [Pandigital Prime Sets](https://projecteuler.net/problem=118) | [ ]
 119 | [Digit Power Sum](https://projecteuler.net/problem=119) | [ ]
 120 | [Square Remainders](https://projecteuler.net/problem=120) | [ ]
@@ -249,7 +249,7 @@ Nr | Name | Solved
 234 | [Semidivisible Numbers](https://projecteuler.net/problem=234) | [ ]
 235 | [An Arithmetic Geometric Sequence](https://projecteuler.net/problem=235) | [ ]
 236 | [Luxury Hampers](https://projecteuler.net/problem=236) | [ ]
-237 | [Tours on a $4 times N$ Playing Board](https://projecteuler.net/problem=237) | [ ]
+237 | [Tours on a $4 \times N$ Playing Board](https://projecteuler.net/problem=237) | [ ]
 238 | [Infinite String Tour](https://projecteuler.net/problem=238) | [ ]
 239 | [Twenty-two Foolish Primes](https://projecteuler.net/problem=239) | [ ]
 240 | [Top Dice](https://projecteuler.net/problem=240) | [ ]
@@ -283,8 +283,8 @@ Nr | Name | Solved
 268 | [At Least Four Distinct Prime Factors Less Than 100](https://projecteuler.net/problem=268) | [ ]
 269 | [Polynomials with at Least One Integer Root](https://projecteuler.net/problem=269) | [ ]
 270 | [Cutting Squares](https://projecteuler.net/problem=270) | [ ]
-271 | [Modular Cubes](https://projecteuler.net/problem=271) | [ ]
-272 | [Modular Cubes](https://projecteuler.net/problem=272) | [ ]
+271 | [Modular Cubes, Part 1](https://projecteuler.net/problem=271) | [ ]
+272 | [Modular Cubes, Part 2](https://projecteuler.net/problem=272) | [ ]
 273 | [Sum of Squares](https://projecteuler.net/problem=273) | [ ]
 274 | [Divisibility Multipliers](https://projecteuler.net/problem=274) | [ ]
 275 | [Balanced Sculptures](https://projecteuler.net/problem=275) | [ ]
@@ -393,7 +393,7 @@ Nr | Name | Solved
 378 | [Triangle Triples](https://projecteuler.net/problem=378) | [ ]
 379 | [Least Common Multiple Count](https://projecteuler.net/problem=379) | [ ]
 380 | [Amazing Mazes!](https://projecteuler.net/problem=380) | [ ]
-381 | [$(text{prime}-k)$ Factorial](https://projecteuler.net/problem=381) | [ ]
+381 | [$(\text{prime}-k)$ Factorial](https://projecteuler.net/problem=381) | [ ]
 382 | [Generating Polygons](https://projecteuler.net/problem=382) | [ ]
 383 | [Divisibility Comparison Between Factorials](https://projecteuler.net/problem=383) | [ ]
 384 | [Rudin-Shapiro Sequence](https://projecteuler.net/problem=384) | [ ]
@@ -432,7 +432,7 @@ Nr | Name | Solved
 417 | [Reciprocal Cycles II](https://projecteuler.net/problem=417) | [ ]
 418 | [Factorisation Triples](https://projecteuler.net/problem=418) | [ ]
 419 | [Look and Say Sequence](https://projecteuler.net/problem=419) | [ ]
-420 | [$2 times 2$ Positive Integer Matrix](https://projecteuler.net/problem=420) | [ ]
+420 | [$2 \times 2$ Positive Integer Matrix](https://projecteuler.net/problem=420) | [ ]
 421 | [Prime Factors of $n^{15}+1$](https://projecteuler.net/problem=421) | [ ]
 422 | [Sequence of Points on a Hyperbola](https://projecteuler.net/problem=422) | [ ]
 423 | [Consecutive Die Throws](https://projecteuler.net/problem=423) | [ ]
@@ -621,7 +621,7 @@ Nr | Name | Solved
 606 | [Gozinta Chains II](https://projecteuler.net/problem=606) | [ ]
 607 | [Marsh Crossing](https://projecteuler.net/problem=607) | [ ]
 608 | [Divisor Sums](https://projecteuler.net/problem=608) | [ ]
-609 | [$pi$ Sequences](https://projecteuler.net/problem=609) | [ ]
+609 | [$\pi$ Sequences](https://projecteuler.net/problem=609) | [ ]
 610 | [Roman Numerals II](https://projecteuler.net/problem=610) | [ ]
 611 | [Hallway of Square Steps](https://projecteuler.net/problem=611) | [ ]
 612 | [Friend Numbers](https://projecteuler.net/problem=612) | [ ]
@@ -686,8 +686,8 @@ Nr | Name | Solved
 671 | [Colouring a Loop](https://projecteuler.net/problem=671) | [ ]
 672 | [One More One](https://projecteuler.net/problem=672) | [ ]
 673 | [Beds and Desks](https://projecteuler.net/problem=673) | [ ]
-674 | [Solving $mathcal{I}$-equations](https://projecteuler.net/problem=674) | [ ]
-675 | [$2^{omega(n)}$](https://projecteuler.net/problem=675) | [ ]
+674 | [Solving $\mathcal{I}$-equations](https://projecteuler.net/problem=674) | [ ]
+675 | [$2^{\omega(n)}$](https://projecteuler.net/problem=675) | [ ]
 676 | [Matching Digit Sums](https://projecteuler.net/problem=676) | [ ]
 677 | [Coloured Graphs](https://projecteuler.net/problem=677) | [ ]
 678 | [Fermat-like Equations](https://projecteuler.net/problem=678) | [ ]
@@ -764,7 +764,7 @@ Nr | Name | Solved
 749 | [Near Power Sums](https://projecteuler.net/problem=749) | [ ]
 750 | [Optimal Card Stacking](https://projecteuler.net/problem=750) | [ ]
 751 | [Concatenation Coincidence](https://projecteuler.net/problem=751) | [ ]
-752 | [Powers of $1+sqrt 7$](https://projecteuler.net/problem=752) | [ ]
+752 | [Powers of $1+\sqrt 7$](https://projecteuler.net/problem=752) | [ ]
 753 | [Fermat Equation](https://projecteuler.net/problem=753) | [ ]
 754 | [Product of Gauss Factorials](https://projecteuler.net/problem=754) | [ ]
 755 | [Not Zeckendorf](https://projecteuler.net/problem=755) | [ ]
@@ -813,7 +813,7 @@ Nr | Name | Solved
 798 | [Card Stacking Game](https://projecteuler.net/problem=798) | [ ]
 799 | [Pentagonal Puzzle](https://projecteuler.net/problem=799) | [ ]
 800 | [Hybrid Integers](https://projecteuler.net/problem=800) | [ ]
-801 | [$x^y equiv y^x$](https://projecteuler.net/problem=801) | [ ]
+801 | [$x^y \equiv y^x$](https://projecteuler.net/problem=801) | [ ]
 802 | [Iterated Composition](https://projecteuler.net/problem=802) | [ ]
 803 | [Pseudorandom Sequence](https://projecteuler.net/problem=803) | [ ]
 804 | [Counting Binary Quadratic Representations](https://projecteuler.net/problem=804) | [ ]
